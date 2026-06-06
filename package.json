@@ -1,0 +1,23 @@
+{
+  "name": "es-extract.jsonl",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/nni537014-collab/translations-json#readme",
+  "bugs": {
+    "url": "https://github.com/nni537014-collab/translations-json/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nni537014-collab/translations-json.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "test.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^25.9.2"
+  }
+}

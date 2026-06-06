@@ -1,0 +1,2182 @@
+#separator:tab
+#html:false
+to, at	a	
+We're going to Granada tomorrow.	Vamos a Granada mañana.	
+down, downstairs, below	abajo	
+I'll wait for you downstairs.	Te espero abajo.	
+the fan	el abanico	
+Ladies use fans when it's hot.	Las damas usan abanicos cuando hace calor.	
+open	abierto	
+The bank stays open from eight until two.	El banco queda abierto desde las ocho hasta las dos.	
+to embrace	abrazar	
+He embraced his relatives before he left.	Abrazó a sus parientes antes de salir.	
+an embrace, a hug	un abrazo	
+Hugs for the children from all of us.	Abrazos para los niños de todos nosotros.	
+the overcoat	el abrigo	
+I always wear an overcoat when it's cold.	Siempre llevo un abrigo cuando hace frío.	
+to open	abrir	
+Open your mouth, said the dentist.	Abra la boca, dijo el dentista.	
+here (Rioplatense)	acá	
+Come here (Rioplatense) quickly.	Venga acá, rápido.	
+to end, to finish	acabar	
+Our work never ends.	Nuestro trabajo nunca acaba.	
+the action	la acción	
+His actions confuse me.	Sus acciones me confunden.	
+to accept	aceptar	
+Do you accept travelers checks?	Aceptan cheques de viajero?	
+about	acerca de	
+I'm looking for a book about medieval Spain.	Busco un libro acerca de la España medieval.	
+to approach	acercarse	
+Come closer and you'll all be able to see better.	Acérquense y podrán ver mejor.	
+to accompany, go with	acompañar	
+Will you all allow me to go with you?	Me permiten acompañarlos?	
+to advise	aconsejar	
+What do you advise me to do?	Qué me aconsejan hacer?	
+to remember	acordarse	
+Do you remember us?	Se acuerdan de nosotros?	
+to go to bed	acostarse	
+We always go to bed late when we visit a foreign country.	Siempre nos acostamos tarde cuando visitamos un país extranjero.	
+present, current	actual	
+The present government has many problems.	El gobierno actual tiene muchos problemas.	
+the agreement	el acuerdo	
+We agree with you.	Estamos de acuerdo con usted.	
+ahead	adelante	
+From now on, try (ustedes) to arrive on time.	De hoy en adelante, traten de llegar a tiempo.	
+furthermore, besides, moreover	además	
+I have no time for that, and furthermore I don't have any money.	No tengo tiempo para eso, y además no tengo dinero.	
+inside	adentro	
+I want to see what there is inside.	Quiero ver lo que hay adentro.	
+goodbye	adiós	
+Goodbye and good luck.	Adiós y buena suerte.	
+where	adónde	
+Where are you all going this afternoon?	Adónde van ustedes esta tarde?	
+the customs house	la aduana	
+It's necessary to go through Customs upon arriving.	Hay que pasar por la aduana al llegar.	
+the airport	el aeropuerto	
+There are many airlines in this airport.	Hay muchas aerolíneas en este aeropuerto.	
+to shave (oneself)	afeitarse	
+I shave every morning.	Me afeito todas las mañanas.	
+outside	afuera	
+See what's going on outside.	Mire qué pasa afuera.	
+the agent	el agente	
+A travel agent will arrange an excursion to Andalusia for you.	Un agente de viajes le arreglará una excursión a Andalucía.	
+pleasant	agradable	
+Our visit has been very pleasant.	Nuestra visita ha sido muy agradable.	
+to thank	agradecer	
+I thank you very much for your kindness.	Le agradezco mucho su amabilidad.	
+the water	el agua	
+It's a good idea to drink bottled water.	Es una buena idea beber agua embotellada.	
+to bear	aguantar	
+I can't bear the noise from the street.	No puedo aguantar el ruido de la calle.	
+the needle	la aguja	
+I always carry a needle in case of an emergency.	Siempre traigo una aguja en caso de emergencia.	
+now	ahora	
+I am busy now and can't go out.	Estoy ocupado ahora y no puedo salir.	
+the air	el aire	
+Open the window and you'll have fresh air.	Abra la ventana y tendrá aire fresco.	
+on, upon (doing something)	al (+ verbo en infinitivo)	
+Upon seeing what was happening (pasar), we decided to leave.	Al ver lo que pasaba, decidimos salir.	
+the mayor	el alcalde	
+The mayor's office is in the city hall.	La oficina del alcalde está en el ayuntamiento.	
+the bedroom	el dormitorio	
+We're looking for an apartment with two bedrooms.	Buscamos un apartamento con dos dormitorios.	
+the village	la aldea	
+I suggest that you visit some villages in the mountains.	Sugiero que visiten algunas aldeas en las montañas.	
+to be glad	alegrarse	
+I'm glad to see you all again.	Me alegro de verlos otra vez.	
+glad, happy	alegre	
+It seems that you are very happy today.	Parece que está muy alegre hoy.	
+something	algo	
+Do you have something to declare?	Tiene usted algo que declarar?	
+the cotton	el algodón	
+I prefer a cotton blouse.	Prefiero una blusa de algodón.	
+someone, somebody	alguien	
+I think someone is knocking at the door.	Creo que alguien llama a la puerta.	
+some, any	alguno	
+Some of you already know me.	Algunos de ustedes ya me conocen.	
+the department store	el almacén	
+You can buy almost everything in the big department stores.	Se puede comprar casi todo en los almacenes grandes.	
+the pillow	la almohada	
+Can all of you please bring up another pillow?	Me pueden subir otra almohada, por favor?	
+to eat lunch	almorzar	
+I try to eat lunch with my family if I can.	Trato de almorzar con la familia si puedo.	
+the lunch	el almuerzo	
+In Spain they serve lunch at about two o'clock.	En España sirven el almuerzo a eso de las dos.	
+to rent	alquilar	
+Where can I rent a car?	Dónde puedo alquilar un coche?	
+tall, high, stop	alto	
+There are many tall buildings downtown.	Hay muchos edificios altos en el centro.	
+student, pupil	alumno, alumna	
+He takes a group of students to Spain every summer.	Lleva un grupo de alumnos a España cada verano.	
+there	allí	
+I wouldn't like to live there.	No me gustaría vivir alli.	
+kind, likeable	amable	
+You're very kind.	Es usted muy amable.	
+to love	amar	
+I love her so much that I can't leave her.	La amo tanto que no puedo separarme de ella.	
+friend	amigo / amiga	
+I'd like to introduce some friends of mine.	Quiero presentar algunos amigos míos.	
+the friendship	la amistad	
+Our friendship will last a long time.	Nuestra amistad va a durar mucho tiempo.	
+both	ambos	
+It's worthwhile to visit both places.	Vale la pena de visitar ambos lugares.	
+the love	el amor	
+For your love, I would do anything.	Por tu amor, haría cualquier cosa.	
+wide	ancho	
+The main streets are very wide.	Las avenidas principales son muy anchas.	
+to walk, to be, to go (slang)	andar	
+Old people walk slowly.	Los viejos andan despacio.	
+the platform	el andén	
+On what platform does the train from Barcelona arrive?	En qué andén llega el tren de Barcelona?	
+the ring	el anillo	
+Her fiancé gave her a very big ring.	Su novio le dio un anillo muy grande.	
+last night	anoche	
+Last night I arrived late.	Anoche llegué tarde.	
+the eyeglasses	los anteojos	
+He wears eyeglasses to read.	Usa anteojos para leer.	
+before	antes de	
+Before going to France we decided to study French.	Antes de ir a Francia decidimos estudiar francés.	
+the announcement, advertisement	el anuncio	
+Read the advertisement section if you're looking for a job.	Lea la sección de anuncios si busca empleo.	
+to add	añadir	
+I can't add anything else.	No puedo añadir nada más.	
+the year	el año	
+We hope to come back next year.	Esperamos volver el año que viene.	
+to turn off, extinguish	apagar	
+Turn off the light on leaving the room.	Apague la luz al salir del cuarto.	
+the appliance	el aparato	
+There are many useful appliances in the hardware store.	Hay muchos aparatos útiles en la ferretería.	
+to appear	aparecer	
+He suddenly appeared after a three year absence.	De repente apareció después de tres años de ausencia.	
+the surname	el apellido	
+What is your surname?	Cuál es su apellido?	
+to learn	aprender	
+We learn a lot in our trips abroad.	Aprendemos mucho en nuestros viajes al extranjero.	
+to hurry	apresurarse	
+It's late already. Hurry up!	Ya es tarde. Apresúrense!	
+to take advantage of	aprovechar	
+I want to take advantage of the opportunity to speak to the governor.	Quiero aprovechar la oportunidad de hablar con el gobernador.	
+that, those	aquel (aquella, aquellos, aquellas)	
+I remember those times.	Me acuerdo de aquellos tiempos.	
+here (Hispanic)	aquí	
+Spanish is spoken here.	Aquí se habla español.	
+the tree	el árbol	
+His house is surrounded by trees.	Su casa está rodeada de árboles.	
+the sand	la arena	
+Blood and Sand is the title of a novel by Blasco Ibáñez.	Sangre y arena es el título de una novela de Blasco Ibáñez.	
+the earrings	los aretes	
+They have a good choice of earrings in this jewelry store.	Tienen una buena selección de aretes en esta joyería.	
+the closet	el armario	
+This room has two closets for clothing.	Esta habitación tiene dos armarios para la ropa.	
+to fix, repair, arrange	arreglar	
+Is everything arranged for tomorrow?	Está todo arreglado para mañana?	
+up, above	arriba	
+The bedrooms are upstairs.	Los dormitorios están arriba.	
+to throw	arrojar	
+It is forbidden to throw things out of the window.	Se prohibe arrojar objetos por la ventanilla.	
+(male or female) art	la / el arte	
+This museum has a magnificent collection of modern art.	Este museo tiene una magnífica colección de arte moderno.	
+Where is the Palace of Fine Arts?	Dónde está el Palacio de Bellas Artes?	
+the article	el artículo	
+This article is of no value.	Este artículo no tiene ningún valor.	
+(male or female) artist	la / el artista	
+These artists are going to be famous some day.	Estos artistas van a ser famosos algún día.	
+roasted	asado	
+I like roasted chestnuts.	Me gustan las castañas asadas.	
+the elevator	el ascensor	
+The elevator is out of order today.	El ascensor no funciona hoy.	
+to insure	asegurar	
+I'd like to insure my luggage.	Quisiera asegurar mi equipaje.	
+the restroom (Hispanic), the toilet	los aseos	
+The restrooms are to the left.	Los aseos están a la izquierda.	
+thus, this way	así	
+You should do it this way.	Usted debe hacerlo así.	
+the seat	el asiento	
+Please be seated.	Tomen asiento, por favor.	
+to attend, to show up to	asistir	
+We want to attend tonight's concert.	Queremos asistir al concierto de esta noche.	
+the matter, affair	el asunto	
+It’s a very delicate matter.	Es un asunto muy delicado.	
+back, behind, backward	atrás	
+She remained behind because she was walking very slowly.	Se quedó atrás porque caminaba muy despacio.	
+slow	atrasado	
+My watch must be slow.	Mi reloj debe estar atrasado.	
+to cross	atravesar	
+Wait for the green signal before starting to cross.	Espere la señal verde antes de empezar a atravesar.	
+to dare	atreverse	
+I don't dare tell him such a thing.	No me atrevo a decirle tal cosa.	
+although	aunque	
+Although we don't have much money, I want to buy this painting.	Aunque no tenemos mucho dinero, quiero comprar esta pintura.	
+the bus	el autobús	
+The bus stops at the next corner.	El autobús para en la próxima esquina.	
+the automobile, car	el automóvil	
+If you wish, I can take you in my automobile.	Si quiere, le puedo llevar en mi automovil.	
+the authority	la autoridad	
+It is not known who has the authority in this matter.	No se sabe quién tiene la autoridad en este asunto.	
+the avenue	la avenida	
+Fifth Avenue is an elegant street.	La Quinta Avenida es una calle elegante.	
+to ascertain, to find out	averiguar	
+Try to find out if all what he said is true.	Trate de averiguar si es verdad todo lo que dijo.	
+the airplane	el avión	
+At what time should the plane from Guadalajara arrive?	A qué hora debe llegar el avión de Guadalajara?	
+to inform, warn	avisar	
+Please let me know when I should get off.	Haga el favor de avisarme cuando debo bajar.	
+the notice, warning	el aviso	
+I read the notice in the paper.	Leí el aviso en el periódico.	
+yesterday	ayer	
+Yesterday we did a lot and we are tired today.	Ayer hicimos mucho y estamos cansados hoy.	
+to help	ayudar	
+Can you help me?	Puede usted ayudarme?	
+the city hall, town hall	el ayuntamiento	
+Many offices of the municipal government are in the town hall.	En el ayuntamiento hay muchas oficinas del gobierno municipal.	
+to dance	bailar	
+May I dance with you?	Me permite bailar con usted?	
+the dance	el baile	
+My favorite dance is the tango.	Mi baile favorito es el tango.	
+to go down, get off	bajar	
+I think we get off at the next stop.	Creo que bajamos en la próxima parada.	
+low, short (stature)	bajo	
+He's shorter than his father.	Es más bajo que su padre.	
+the bank, bench	el banco	
+Let's go to the bank to cash these checks.	Vamos al banco para cobrar estos cheques.	
+the flag	la bandera	
+The colors of the American flag are red, white and blue.	Los colores de la bandera americana son rojo, blanco y azul.	
+to bathe (oneself)	bañarse	
+I prefer to bathe in the morning.	Prefiero bañarme por la mañana.	
+the bath, bathroom	el baño	
+A room for two with bath, please.	Una habitación para dos con baño, por favor.	
+cheap, inexpensive	barato	
+Buy it, it's very cheap.	Cómprelo, es muy barato.	
+the chin, beard	la barba	
+Although he's young, he has a gray beard.	Aunque es joven, tiene la barba gris.	
+the boat, ship	el barco	
+I like to go across the lake in a sailboat.	Me gusta cruzar el lago en barco de vela.	
+the district, neighborhood	el barrio	
+Many rich people live in this neighborhood.	Mucha gente rica vive en este barrio.	
+enough, sufficient	bastante	
+I don't know if I have enough money.	No sé si tengo bastante dinero.	
+to suffice, be enough	bastar	
+That's enough. I don't want any more.	Ya basta. No quiero más.	
+the trunk	el baúl	
+I think the trunk is too heavy.	Creo que el baúl es demasiado pesado.	
+to drink	beber	
+It's dangerous to drink and drive.	Es peligroso beber y conducir.	
+the drink, beverage	la bebida	
+What cold drinks do you have?	Qué bebidas frías tiene?	
+beautiful	bello	
+Madrid is one of the most gorgeous capitals in Europe.	Madrid es una de las capitales más bellas de Europa.	
+to kiss	besar	
+The bride and groom kissed when the ceremony ended.	Los novios se besaron cuando terminó la ceremonia.	
+the kiss	el beso	
+Since I can't be with you, I send you a kiss.	Como no puedo estar contigo, te mando un beso.	
+the library	la biblioteca	
+You can learn as much in the library as in school.	Se puede aprender tanto en la biblioteca como en la escuela.	
+well	bien	
+You speak Spanish very well.	Usted habla muy bien español.	
+welcome	bienvenido	
+Welcome to our house!	Bienvenido a nuestra casa!	
+the ticket, the bill (bank note)	el billete	
+How much is a ticket to Segovia?	Cuánto cuesta un billete a Segovia?	
+the blouse	la blusa	
+We have blouses of cotton or silk.	Tenemos blusas de algodón o de seda.	
+the mouth	la boca	
+He didn't open his mouth to protest.	No abrió la boca para protestar.	
+the wedding	la boda	
+The wedding took place in the Ritz Hotel.	Se celebró la boda en el hotel Ritz.	
+the ticket (Latin America)	el boleto	
+A one-way ticket, please.	Un boleto sencillo, por favor.	
+the bag, the purse	la bolsa	
+She lost her purse.	Se le perdió la bolsa.	
+the pocket	el bolsillo	
+He was walking with his hands in his pockets.	Andaba con las manos en los bolsillos.	
+pretty	bonito	
+How pretty you look today!	Qué bonita estás hoy!	
+drunk, drunkard	borracho	
+If you keep on drinking like that, you'll be drunk very soon.	Si sigues bebiendo así, estarás borracho muy pronto.	
+the forest, woods	el bosque	
+Be careful with fire in the woods.	Cuidado con el fuego en el bosque.	
+to throw out, discard (Latin America)	botar	
+Don't throw those papers out yet.	No bote esos papeles todavía.	
+the bottle	la botella	
+My bottle broke.	Se me rompió la botella.	
+the arm	el brazo	
+He hurt his arm lifting so much weight.	Se lastimó el brazo levantando tanto peso.	
+brief	breve	
+Tell me, briefly, what happened.	Dígame, en breve, qué pasó.	
+the jest, the prank	la broma	
+He said it in jest.	Lo dijo en broma.	
+good	buen, bueno	
+Good morning. We have good weather today.	Buenos días. Hace buen tiempo hoy.	
+the package, bundle	el bulto	
+He went out carrying a bundle of clothing.	Salió llevando un bulto de ropa.	
+the ship, boat	el buque	
+It is very pleasant to cross the ocean by ship.	Es muy agradable cruzar el océano en buque.	
+to look for	buscar	
+They looked for him everywhere but didn't find him.	Lo buscaron en todas partes pero no lo encontraron.	
+the gentlemen, sir	el caballero	
+He's a real gentleman.	Es un verdadero caballero.	
+to fit in, to be room for	caber	
+There's room for eight people in this elevator.	Caben ocho personas en este ascensor.	
+the head	la cabeza	
+My head aches.	Me duele la cabeza.	
+each	cada	
+Each one does what he wants.	Cada uno hace lo que quiere.	
+to fall	caer	
+He approached and fell on his knees.	Se acercó y cayó de rodillas.	
+the bar with food service	la cafetería	
+The cafeterias are full at about seven PM.	Las cafeterías están llenas hacia las siete de la tarde.	
+the box, cash register	la caja	
+Pay at the register, please.	Pague en la caja, por favor.	
+cashier	cajero / cajera	
+The cashier will give you the discount.	La cajera le dará el descuento.	
+the sock	el calcetín	
+Where can I buy a pair of socks?	Dónde puedo comprar un par de calcetines?	
+a temperature, a fever	una calentura	
+You have a temperature and you should not go out.	Tienes una calentura y no debes salir.	
+warm, hot	caliente	
+Ow, the coffee is very hot!	Ay, el café está muy caliente!	
+the heat, warmth	el calor	
+In the summer it's very hot in southern Spain.	En el verano hace mucho calor en el sur de España.	
+the street	la calle	
+Our hotel is on the next street.	Nuestro hotel está en la próxima calle.	
+the bed	la cama	
+A room with two beds.	Una habitación con dos camas.	
+the camera	la cámara	
+You'll be able to take many pictures with your new camera.	Podrás sacar muchas fotos con tu nueva cámara.	
+the chambermaid, waitress	la camarera	
+If you need anything, ask the chambermaid.	Si necesita algo, pídaselo a la camarera.	
+the waiter	el camarero	
+Waiter, the check, please.	Camarero, la cuenta, por favor.	
+to change, exchange	cambiar	
+I would like to exchange this shirt that I bought yesterday.	Quisiera cambiar esta camisa que compré ayer.	
+the change, exchange	el cambio	
+Forgive me, but I have no change.	Perdone, pero no tengo cambio.	
+to walk	caminar	
+It's good for your health to walk every day.	Es bueno para la salud caminar todos los días.	
+the road	el camino	
+This road is very long.	Este camino es muy largo.	
+the truck, bus (Mexico)	el camión	
+Some trucks are very big.	Algunos camiones son grandísimos.	
+the shirt	la camisa	
+In the summer I wear short-sleeved shirts.	En el verano llevo camisas de mangas cortas.	
+the T-shirt, undershirt	la camiseta	
+Many young men wear T-shirts instead of shirts.	Muchos jóvenes usan camiseta en vez de camisa.	
+the bell	la campana	
+We can hear the church bell every morning.	Podemos oír la campana de la iglesia todas las mañanas.	
+the country, field	el campo	
+We spend the weekends in our country house.	Pasamos los fines de semana en nuestra casa de campo.	
+the song	la canción	
+Love songs move me.	Las canciones de amor me emocionan.	
+tired	cansado	
+After four hours in the museum we're tired.	Después de cuatro horas en el museo estamos cansados.	
+to sing	cantar	
+As it's your birthday, we're going to sing you a song.	Como es tu cumpleaños, vamos a cantarte una canción.	
+the capital (city)	la capital	
+Madrid is the capital of Spain.	Madrid es la capital de España.	
+the capital (investments)	el capital	
+He invested all his capital in that business.	Invirtió todo su capital en ese negocio.	
+the face	la cara	
+She has a very pretty face.	Tiene una cara muy bonita.	
+gosh!, good heavens!, darn it!	caramba!	
+Darn it! We're lost.	Caramba! Estamos perdidos.	
+the jail	la cárcel	
+He says he's innocent, but they put him in jail.	Dice que es inocente, pero le metieron en la cárcel.	
+the affection, the love	el cariño	
+Much love to the children.	Muchos cariños para los niños.	
+affectionate	cariñoso	
+He's always been very affectionate with his in-laws.	Siempre ha sido muy cariñoso con sus cuñados.	
+expensive	caro	
+Everything is very expensive in this store.	Todo es muy caro en esta tienda.	
+the car (Latin America)	el carro	
+Let's go in your car.	Vamos en tu carro.	
+the letter, playing card	la carta	
+Where can I mail these letters?	Dónde puedo echar estas cartas?	
+the purse, the wallet	la cartera	
+I think I lost my purse.	Creo que se me perdió la cartera.	
+the highway	la carretera	
+The new highways are magnificent.	Las nuevas carreteras son magníficas.	
+the house, home	la casa	
+Our house is your house.	Nuestra casa es su casa.	
+married	casado	
+Their oldest daughter isn't married yet.	Su hija mayor no está casada todavía.	
+to get married	casarse	
+He married a girl much younger than he.	Se casó con una muchacha mucho más joven que él.	
+almost	casi	
+Almost everyone arrived on time.	Casi todos llegaron a tiempo.	
+the case, matter, thing	el caso	
+It's a very strange case.	Es un caso muy curioso.	
+the castle	el castillo	
+It's worthwhile visiting the old castles.	Vale la pena visitar los antiguos castillos.	
+the chance, the coincidence	la casualidad	
+Do you know Professor López, by any chance?	Por casualidad, conoce usted al profesor López?	
+the cold (respiratory)	el catarro	
+He's caught a terrible cold.	Ha cogido un catarro horrible.	
+the cathedral	la catedral	
+Every city has an imposing cathedral.	Cada ciudad tiene una catedral imponente.	
+the supper, dinner	la cena	
+Supper is served at nine thirty.	Se sirve la cena a las nueve y media.	
+to eat supper (dinner)	cenar	
+People dine very late in Spain.	Se cena muy tarde en España.	
+the center, business district	el centro	
+Let's go shopping downtown.	Vamos de compras al centro.	
+the brush	el cepillo	
+Where can I buy a toothbrush?	Dónde puedo comprar un cepillo de dientes?	
+near	cerca de	
+Give me a room near the elevator.	Deme una habitación cerca del ascensor.	
+closed	cerrado	
+Many museums are closed on Mondays.	Muchos museos están cerrados los lunes.	
+to close	cerrar	
+Please close the door when you leave.	Haga el favor de cerrar la puerta cuando sale.	
+the basket	la cesta	
+Throw the papers in the basket.	Eche los papeles en la cesta.	
+blind	ciego	
+In many places blind people sell lottery tickets.	En muchos lugares los ciegos venden billetes de lotería.	
+the sky, heaven	el cielo	
+The sky is full of dark clouds.	El cielo está lleno de nubes oscuras.	
+certain, sure, true	cierto	
+Is it certain that he will come tomorrow?	Es cierto que vendrá mañana?	
+the movie theater, movies	el cine	
+I like to go to the movies to see foreign films.	Me gusta ir al cine para ver películas extranjeras.	
+the tape (audio), ribbon	la cinta	
+I bought several audios of the popular singers.	Compré varias cintas de los cantantes populares.	
+the belt	el cinturón	
+Fasten your seat belts.	Abróchense los cinturones.	
+the appointment, date	la cita	
+You have to call the doctor and make an appointment.	Hay que llamar al médico y fijar cita.	
+the city	la ciudad	
+The capital of Mexico is the largest city in Latin America.	La capital de México es la ciudad más grande de Latinoamérica.	
+"clear, light (color), ""Of course."""	claro	
+I prefer a lighter color.	Prefiero un color más claro.	
+Certainly! / Most definitely!	Claro que si!	
+the class, kind, type	la clase	
+He has two classes in the morning and one in the afternoon.	Tiene dos clases por la mañana y una por la tarde.	
+client, customer (male or female)	la / el cliente	
+The customer is always right.	El cliente siempre tiene razón.	
+the climate	el clima	
+This island has an ideal climate.	Esta isla tiene un clima ideal.	
+to collect, to charge, to cash	cobrar	
+How much do you charge by the hour?	Cuánto cobra usted por hora?	
+the kitchen	la cocina	
+My wife prepares very good meals in this kitchen:	Mi mujer prepara comidas muy buenas en esta cocina.	
+to cook	cocinar	
+Where did she learn to cook so well?	Dónde aprendió a cocinar tan bien?	
+cook	cocinero / cocinera	
+The cook prepares different dishes every day.	El cocinero prepara platos diferentes todos los días.	
+the car, coach	el coche	
+Since I don't have a car, I have to use a taxi.	Como no tengo coche, tengo que usar un taxi.	
+to take, catch	coger	
+You have to take bus number 12.	Tiene que coger el autobús número 12.	
+the line (queue), tail	la cola	
+The line to the ticket office is very long.	La cola para la taquilla es muy larga.	
+the necklace	el collar	
+He wants to buy a pearl necklace for his wife.	Quiere comprar un collar de perlas para su mujer.	
+the play, comedy	la comedia	
+Calderórfs plays are very interesting.	Las comedias de Calderón son muy interesantes.	
+the dining room	el comedor	
+For dinner we eat in the dining room.	Para la cena comemos en el comedor.	
+to begin	comenzar	
+We're beginning to understand better.	Comenzamos a comprender mejor.	
+to eat	comer	
+Where do you want to eat tonight?	Dónde desean comer esta noche?	
+the groceries	los comestibles	
+You can buy all kinds of groceries in a supermarket.	Se puede comprar toda clase de comestibles en un supermercado.	
+the food, the meal	la comida	
+What are the meal hours?	Cuáles son las horas de comida?	
+as, like	como	
+He isn't like his brother.	No es como su hermano.	
+How?	Cómo?	
+How is the family?	Cómo está la familia?	
+Why not!	Cómo no!	
+comfortable	cómodo	
+I don't feel comfortable here.	No me siento cómodo aquí.	
+companion, friend	compañero / compañera	
+I'd like to introduce my good friend Luis.	Quisiera presentar mi buen compañero, Luis.	
+the company	la compañía	
+He works for an insurance company.	Trabaja para una compañía de seguros.	
+to buy	comprar	
+Where did you buy that dress?	Dónde compró usted ese vestido?	
+to understand	comprender	
+I really don't understand the plan they presented.	No comprendo muy bien el plan que presentaron.	
+the engagement	el compromiso	
+I can't accept the invitation because I have another engagement.	No puedo aceptar la invitación porque tengo otro compromiso.	
+with	con	
+I'd like to go out with her.	Quisiera salir con ella.	
+to drive, conduct	conducir	
+Who's going to drive, you or l?	Quién va a conducir, usted o yo?	
+the conference, lecture	la conferencia	
+The lecture on the budget was very interesting.	La conferencia sobre el presupuesto fue muy interesante.	
+Confused	confuso	
+I'm confused. What do I do now?	Estoy confuso. Qué hago ahora?	
+with me	conmigo	
+Will you go to the movies with me?	Quiere usted ir al cine conmigo?	
+to know, to meet	conocer	
+I don't know the mayor but I'd like to meet him.	No conozco al alcalde, pero me gustaría conocerlo.	
+to get, to obtain	conseguir	
+You won't get anything by shouting.	No conseguirá nada gritando.	
+the consulate	el consulado	
+Go to the consulate if you have problems.	Vaya al consulado si tiene problemas.	
+to count, tell	contar	
+Always count your change.	Cuente el cambio siempre.	
+content, glad	contento	
+I'm very glad to see you all.	Estoy muy contento de verlos.	
+to answer, reply	contestar	
+I am happy to reply to your last letter.	Me complace contestar a su última carta.	
+to continue, to go on	continuar	
+I'm so tired that I can't go on.	Estoy tan cansado que no puedo continuar.	
+against	contra	
+I'm against that resolution.	Yo estoy contra esa resolución.	
+contrary	contrario	
+On the contrary, I've never said such a thing.	Al contrario, nunca he dicho tal cosa.	
+the (wine) glass, drink	la copa	
+Let's have a drink.	Vamos a tomar una copa.	
+the heart	el corazón	
+I thank you with all my heart.	Se lo agradezco de todo corazón.	
+the tie	la corbata	
+She gave her father a tie.	Le dio una corbata a su padre.	
+correct	correcto	
+Is it correct to say it like this?	Es correcto decirlo así ?	
+the mail, post office	el correo	
+Has the mail come already?	Ha llegado ya el correo?	
+to correct	corregir	
+Please correct all my errors.	Haga el favor de corregir todos mis errores.	
+to run	correr	
+We have to run to arrive on time.	Tenemos que correr para llegar a tiempo.	
+bullfight	la corrida (de toros)	
+Today's bullfight begins at seven.	La corrida de hoy empieza a las siete.	
+to cut	cortar	
+This knife doesn't cut well.	Este cuchillo no corta bien.	
+polite	cortés	
+All the children in this class are very polite.	Todos los niños en esta clase son muy corteses.	
+short	corto	
+Is there a shorter road to get there?	Hay un camino más corto para llegar allí?	
+the thing	la cosa	
+I want to tell you a strange thing.	Quiero decirte una cosa curiosa.	
+to sew	coser	
+Can you sew on these buttons for me?	Me puede coser estos botones?	
+the coast	la costa	
+We're going to visit some towns along the coast.	Vamos a visitar algunos pueblos en la costa.	
+to cost	costar	
+How much is it going to cost?	Cuánto va a costar?	
+the custom	la costumbre	
+We're interested in observing the customs of different regions.	Nos interesa observar las costumbres de las diferentes regiones.	
+to believe, think	creer	
+Do you think it's worth while? I don't think so.	Cree usted que valga la pena? No lo creo.	
+servant	criado / criada	
+Rich people have many servants.	Los ricos tienen muchos criados.	
+the crime	el crimen	
+They sent him to jail for all the crimes he had committed.	Lo mandaron a la cárcel por todos los crímenes que había cometido.	
+raw	crudo	
+He says that raw vegetables are more healthful.	Dice que los vegetales crudos son más saludables.	
+the cross	la cruz	
+There is an enormous cross above the Valley of the Fallen.	Hay una cruz enorme sobre el Valle de los Caídos.	
+to cross	cruzar	
+Be careful crossing the street.	Cuidado al cruzar la calle.	
+the notebook	el cuaderno	
+I need a notebook to write my notes.	Necesito un cuaderno para escribir mis notas.	
+the (city) block	la cuadra	
+It's two blocks from here.	Está a dos cuadras de aquí.	
+the picture	el cuadro	
+The Prado has the best paintings by Velázquez and Goya.	El Prado tiene los mejores cuadros de Velázquez y Goya.	
+which, which one?	cuál?	
+Which one do you prefer?	Cuál prefiere usted?	
+when	cuando	
+Write me when you arrive.	Escríbame cuando llegue.	
+when?	cuándo?	
+When do you want me to call you?	Cuándo quiere que le llame?	
+how much?	cuánto?	
+How much does it cost?	Cuánto cuesta?	
+the room, quarter, fourth	el cuarto	
+Each child has his own room.	Cada niño tiene su propio cuarto.	
+to cover	cubrir	
+A thick mist covered the countryside.	Una espesa neblina cubrió el campo.	
+the tablespoon	la cuchara	
+Waiter, please. I need a spoon for the soup.	Camarero, por favor. Me hace falta una cuchara para la sopa.	
+the teaspoon	la cucharita	
+I take two teaspoons of sugar with my coffee.	Tomo dos cucharitas de azúcar con mi café.	
+the knife	el cuchillo	
+We need a knife for the butter.	Necesitamos un cuchillo para la mantequilla.	
+the neck, the (shirt) collar	el cuello	
+I got up today with a pain in my neck.	Me levanté hoy con un dolor de cuello.	
+the check, bill (restaurant)	la cuenta	
+The check, please.	La cuenta, por favor.	
+the story, tale	el cuento	
+He is an author famous for his novels and stories.	Es un autor famoso por sus novelas y cuentos.	
+the leather	el cuero	
+He's looking for a leather belt.	Busca un cinturón de cuero.	
+the body	el cuerpo	
+They carried out several bodies after the explosion.	Sacaron varios cuerpos después de la explosión.	
+the care	el cuidado	
+Take care! lt's dangerous.	Cuidado! Es peligroso.	
+to take care (of oneself)	cuidarse	
+Take care of yourself. Don't get sick.	Cuídese. No se enferme.	
+the birthday	el cumpleaños	
+What shall we buy him for his birthday?	Qué le compramos para su cumpleaños?	
+to complete, to fulfill	cumplir	
+He kept his promise and helped his brothers.	Cumplió su promesa y ayudó a sus hermanos.	
+the priest	el cura	
+The priest who married them is the bride's uncle.	El cura que los casó es el tío de la novia.	
+the course, class	el curso	
+The history course is interesting.	El curso de historia es interesante.	
+the jacket	la chaqueta	
+Take off your jacket if you're warm.	Quítese la chaqueta si tiene calor.	
+the check	el cheque	
+Can I pay you with a personal check?	Le pago con cheque personal?	
+kid, boy, girl	chico, chica	
+The kids are making too much noise.	Los chicos están haciendo demasiado ruido.	
+the joke	el chiste	
+We began to laugh when he told the joke.	Nos pusimos a reír cuando contó el chiste.	
+to collide, crash, shock	chocar	
+The two cars collided at the intersection.	Los dos coches chocaron en la intersección.	
+the driver	el chófer	
+The driver was shouting because the car in front of him wasn't moving.	El chófer estaba gritando porque el auto delante de él no se movía.	
+the lady	la dama	
+Ladies and gentlemen, please sit down.	Damas y caballeros, siéntense porfavor.	
+the harm, the damage	el daño	
+He hurt himself when he fell.	Se hizo daño cuando cayó.	
+to give	dar	
+I always give something to the beggars.	Siempre doy algo a los mendigos.	
+of, from	de	
+How many kilometers is it from here to the railroad station?	Cuántos kilómetros hay de aquí a la estación de ferrocarril?	
+under, beneath	debajo de	
+They left it under the table.	Lo dejaron debajo de la mesa.	
+should, ought to, to owe	deber	
+The students ought to study more.	Los estudiantes deben estudiar más.	
+weak	débil	
+He feels weak after his illness.	Se siente débil después de su enfermedad.	
+to decide	decidir	
+Well, have you decided?	Bueno, han decidido ustedes?	
+to say, to tell	decir	
+Everything he says is true.	Todo lo que dice es cierto.	
+the finger	el dedo	
+He cut his finger with the knife.	Se cortó el dedo con el cuchillo.	
+to let, to permit, to allow, to leave	dejar	
+They don't let anyone enter without special permission.	No dejan entrar a nadie sin permiso especial.	
+in front of	delante de	
+I hope no one sits down in front of us.	Espero que nadie se siente delante de nosotros.	
+slim, thin	delgado	
+If you want to be slim, follow this diet.	Si quiere estar delgada, siga esta dieta.	
+the rest	los demás	
+The rest of them will come very soon.	Los demás vendrán muy pronto.	
+too, too much	demasiado	
+This costs too much.	Esto cuesta demasiado.	
+inside, within	dentro	
+It's more comfortable here inside.	Es más cómodo aquí dentro.	
+to depend	depender	
+I don't know. It depends on the price.	No sé. Depende del precio.	
+(male or female) salesclerk	la / el dependiente	
+One of the sales clerks will take care of you at once.	Uno de los dependientes le atenderá en seguida.	
+the sport	el deporte	
+Baseball is a popular sport in several Latin American countries.	El béisbol es un deporte popular en varios países de Latinoamérica.	
+straight, right	derecho, derecho / derecha	
+The library is to the right.	La biblioteca está a la derecha.	
+Continue straight ahead.	Siga usted todo derecho.	
+to develop	desarrollar	
+The government is trying to develop new industries.	El gobierno trata de desarrollar nuevas industrias.	
+to eat breakfast	desayunarse	
+Where shall we have breakfast today?	Dónde desayunamos hoy?	
+the breakfast	el desayuno	
+They serve a continental breakfast in this hotel.	Sirven un desayuno continental en este hotel.	
+to rest	descansar	
+After so many visits, we want to rest a little.	Después de tantas visitas queremos descansar un poco.	
+to discover	descubrir	
+Did you discover something new today?	Descubrió algo nuevo hoy?	
+the discount	el descuento	
+Many stores offer discounts in the month of August.	Muchas tiendas ofrecen descuentos en el mes de agosto.	
+since	desde	
+I haven't heard from him since last June.	No he oído de él desde junio pasado.	
+to desire, wish	desear	
+What do you wish to order, gentlemen?	Qué desean ustedes pedir, señores?	
+the misfortune	la desgracia	
+How many misfortunes these poor children have suffered! Unfortunately, I cannot help them.	Cuántas desgracias han sufrido estos pobres niños! Por desgracia, no los puedo ayudar.	
+to faint	desmayarse	
+On hearing the news she fainted.	Al oír la noticia se desmayó.	
+slowly	despacio	
+Speak more slowly, please.	Hable usted más despacio, por favor.	
+to say goodbye	despedirse	
+I always cry when we say goodbye.	Siempre lloro cuando nos despedimos.	
+to awaken, to wake up	despertarse	
+Will you wake me at seven?	Quieren despertarme a las siete?	
+after	después (de)	
+We can leave after lunch.	Podemos salir después del almuerzo.	
+the destination, destiny	el destino	
+Take the train that's going to Moncloa.	Tome el tren con destino a Moncloa.	
+behind, in the back of	detrás (de)	
+There's an elegant garden behind the palace.	Hay un jardín elegante detrás del palacio.	
+to return, to give back	devolver	
+Tomorrow I'll return the money you lent me.	Mañana te devuelvo el dinero que me prestaste.	
+the day	el día	
+What's your favorite day?	Cuál es su día favorito?	
+the drawing, sketch	el dibujo	
+There's a special exhibit of Picassos sketches.	Hay una exposición especial de los dibujos de Picasso.	
+the tooth	el diente	
+I have a toothache and I want to go to the dentist.	Tengo un dolor de dientes y quiero ir al dentista.	
+difficult, hard	difícil	
+It's not difficult if you study.	No es difícil si estudias.	
+the money	el dinero	
+Where can I exchange money?	Dónde puedo cambiar dinero?	
+the God	el Dios	
+Thank God, they finally arrived.	Gracias a Dios, por fin llegaron.	
+the direction, address	la dirección	
+What's your home address?	Cuál es la dirección de su casa?	
+the distance	la distancia	
+What's the distance from here to Salamanca?	Qué distancia hay de aquí a Salamanca?	
+to have a good time, to enjoy oneself	divertirse	
+We had a good time last night.	Nos divertirnos mucho anoche.	
+to turn, to fold	doblar	
+Turn the comer and you'll see the store you're looking for.	Doble la esquina y verá la tienda que busca.	
+the dozen	la docena	
+A dozen eggs will be enough for us.	Una docena de huevos nos bastará.	
+the dollar	el dólar	
+The value of the dollar is going up.	El valor del dólar está subiendo.	
+to hurt, ache	doler	
+Show me where it hurts you.	Muéstreme donde le duele.	
+the pain, ache	el dolor	
+I feel a pain in my back.	Siento un dolor en la espalda.	
+where	donde	
+I don't know where they are.	Yo no sé donde están.	
+where?	dónde?	
+Where are you from?	De dónde es usted?	
+to sleep	dormir	
+With so much noise I couldn't sleep last night.	Con tanto ruido no pude dormir anoche.	
+the shower	la ducha	
+I prefer to take a shower in the morning.	Prefiero tomar una ducha por la mañana.	
+to doubt	dudar	
+I don't doubt that he's done it.	No dudo que lo ha hecho.	
+owner	dueño / dueña	
+Who's the owner of this property?	Quién es el dueño de esta propiedad?	
+sweet	dulce	
+I don't like sweet desserts.	No me gustan los postres dulces.	
+during	durante	
+They suffered a lot during the war years.	Sufrieron mucho durante los años de la guerra.	
+to last	durar	
+The reign of Philip II lasted forty years.	El reinado de Felipe II [segundo] duró cuarenta años.	
+hard, difficult	duro	
+She's had a hard life.	Ha llevado una vida dura.	
+to throw, pour	echar	
+Don't throw anything on the floor.	No eche nada al suelo.	
+the age	la edad	
+How old is your son?	Qué edad tiene su hijo?	
+the building	el edificio	
+The building is old but solid.	El edificio es viejo pero sólido.	
+the cash	el efectivo	
+I want to be paid in cash.	Quiero que me paguen en efectivo.	
+the effect	el efecto	
+As a matter of fact, this is the first time I’ve been here.	En efecto, es la primera vez que estoy aquí.	
+the example	el ejemplo	
+This is an example of the progress that we're making.	Este es un ejemplo del progreso que estamos haciendo.	
+the army	el ejército	
+The army is in the north to protect the border.	El ejército está en el norte para proteger la frontera.	
+The teacher and the pupils are in the museum.	La maestra y los alumnos están en el museo.	
+Who is he?	Quién es él?	
+Who is she?	Quién es ella?	
+I hope they arrive soon.	Espero que ellos lleguen pronto.	
+the embassy	la embajada	
+All countries have their embassies in the capital.	Todos los paises tienen sus embajadas en la capital.	
+nevertheless	sin embargo	
+Nevertheless, I want to go there.	Sin embargo, quiero ir allí.	
+to begin	empezar	
+He's already beginning to talk.	Ya empieza a hablar.	
+employee	empleado / empleada	
+The employees threaten to go out on strike.	Los empleados amenazan salir en huelga.	
+the employment, job	el empleo	
+What type of job are you looking for?	Qué clase de empleo busca usted?	
+to push	empujar	
+Push the door carefully.	Empuje la puerta con cuidado.	
+in, on, at	en	
+He behaves well in school but at home he causes problems.	Se porta bien en la escuela, pero en casa causa problemas.	
+in love	enamorado	
+I'm in love with you and I want to get married with you.	Estoy enamorado de ti y quiero casarme contigo.	
+delighted, charmed	encantado	
+Delighted to meet you.	Encantado de conocerle.	
+to light, turn on	encender	
+Turn on the light, please.	Encienda la luz, por favor.	
+above, on top of	encima de	
+I left it on top of the table.	Lo dejé encima de la mesa.	
+to find, meet	encontrar	
+I met her by chance in the library.	La encontré por casualidad en la biblioteca.	
+sick, ill	enfermo	
+He couldn't come because he was ill.	No pudo venir porque estaba enfermo.	
+opposite, facing	enfrente	
+Opposite there is a six-story building.	Enfrente hay un edificio de seis pisos.	
+to deceive	engañar	
+I hope they aren't deceiving me.	Espero que no me engañen.	
+to annoy	enojar	
+The cigarette smoke annoyed the other passengers.	El humo de los cigarrillos enojó a los otros pasajeros.	
+to teach, to show	enseñar	
+I want to show you all a spectacular view.	Quiero enseñarles una vista espectacular.	
+to understand	entender	
+I didn't understand because they spoke in a low voice.	No entendí porque hablaban en voz baja.	
+then, at that time	entonces	
+At that time we were quite rich.	Entonces éramos bastante ricos.	
+the entrance, admission	la entrada	
+Admission is free for children.	La entrada es gratis para los niños.	
+to enter, to come in	entrar	
+May I come in?	Se puede entrar?	
+between, among	entre	
+Between us there is no problem.	Entre nosotros no hay problema.	
+to deliver, hand over	entregar	
+He handed me the letter and left.	Me entregó la carta y salió.	
+the appetizer, intermission	el entremés	
+During the intermission I got up to stretch my legs.	Durante el entremés me levanté para estirar las piernas.	
+to send	enviar	
+I want to send these letters by airmail.	Quiero enviar estas cartas por correo aéreo.	
+to wrap	envolver	
+Will you wrap this package neatly for me?	Me quiere envolver bien este paquete?	
+the luggage, baggage	el equipaje	
+I can't find my luggage.	No puedo encontrar mi equipaje.	
+the team	el equipo	
+My favorite team lost yesterday.	Mi equipo favorito perdió ayer.	
+to be mistaken, to be wrong	equivocarse	
+Excuse me, but I believe you're mistaken.	Perdone, pero creo que se equivoca usted.	
+the staircase, stairs	la escalera	
+To go down, I always use the stairs.	Para bajar, siempre uso la escalera.	
+to select, to choose	escoger	
+We chose a hotel near the museums.	Escogimos un hotel cerca de los museos.	
+to hide	esconder	
+The thieves hid in the woods.	Los ladrones se escondieron en el bosque.	
+to write	escribir	
+He promised to write every day.	Prometió escribir todos los días.	
+to listen	escuchar	
+Listen to what the teacher says.	Escuchen lo que dice el profesor.	
+the school	la escuela	
+The children go to school in the morning.	Los niños van a la escuela por la mañana.	
+that, those 	ese, esa, esos, esas, eso (neuter pronoun)	
+Who are those children?	Quiénes son esos niños?	
+That's it.	Eso es.	
+an effort	un esfuerzo	
+One must make an effort.	Hay que hacer un esfuerzo.	
+the space	el espacio	
+There isn't enough space here for forty people.	No hay bastante espacio aquí para cuarenta personas.	
+the back, shoulder	la espalda	
+He felt a blow on his shoulder.	Sintió un golpe en Ia espalda.	
+Spain (female)	España	
+They went to Spain to study in the university.	Fueron a España para estudiar en la universidad.	
+the Spanish	el español	
+Spanish is spoken in twenty countries.	Se habla español en veinte paises.	
+the spectacle, show	el espectáculo	
+It's a spectacle you won't forget.	Es un espectáculo que no va a olvidar.	
+the mirror	el espejo	
+I need a mirror to comb my hair.	Necesito un espejo para peinarme.	
+to hope, wait (for)	esperar	
+We'll have to wait a few minutes.	Tendremos que esperar algunos minutos.	
+the (street) comer	la esquina	
+It's on the next comer.	Está en la próxima esquina.	
+the station, season	la estación	
+It's hard to get a taxi outside the station.	Es difícil conseguir un taxi fuera de la estación.	
+to park	estacionar	
+Where can we park the car?	Dónde podemos estacionar el coche?	
+the state, condition	el estado	
+He works for the state.	Trabaja para el estado.	
+the United States	los Estados Unidos	
+Many inhabitants of the United States speak Spanish.	Muchos habitantes de los Estados Unidos hablan español.	
+to be	estar	
+He isn't here because he's ill.	No está aquí porque está enfermo.	
+the statue	la estatua	
+There are many Roman statues in the next room.	Hay muchas estatuas romanas en la próxima sala.	
+the east	el este	
+Many ports are in the east.	Muchos puertos están en el este.	
+this, these	este, esta, estos, estas, esto (neuter pronoun)	
+These ladies are my aunts.	Estas señoras son mis tias.	
+This is very important.	Esto es muy importante.	
+the stomach	el estómago	
+He has a stomach ache.	Tiene un dolor de estómago.	
+narrow, tight	estrecho	
+This suit is tight on me.	Este traje me queda estrecho.	
+the star	la estrella	
+The stars come out at night.	Las estrellas salen de noche.	
+He (she) is a Hollywood star.	Es una estrella de Hollywood.	
+(male or female) student	la / el estudiante	
+Some students aren't going to come back next semester.	Algunos estudiantes no van a volver el semestre que viene.	
+to study	estudiar	
+It's a good idea to study the language and culture of the country you're going to visit.	Es una buena idea estudiar la lengua y cultura del país que va a visitar.	
+stupendous, wonderful	estupendo	
+Our visit was wonderful.	Nuestra visita fue estupenda.	
+the Europe	la Europa	
+There are so many countries in Europe that I'd like to visit.	Hay tantos países en Europa que quisiera visitar.	
+the exam	el examen	
+The teacher said that he wouldn't give us an exam this week.	El profesor dijo que no nos daria un examen esta semana.	
+to demand, to require	exigir	
+He demands that they all turn in their papers on time.	Exige que todos entreguen sus papeles a tiempo.	
+the success	el éxito	
+His last play was a great success.	Su última comedia tuvo un gran éxito.	
+to explain	explicar	
+Let me explain why I arrived late.	Déjeme explicar por qué llegué tarde.	
+the foreigner, stranger, foreign	el extranjero	
+I like to study foreign languages.	Me gusta estudiar las lenguas extranjeras.	
+to miss (Latin America)	extrañar	
+She misses her family a lot.	Extraña mucho a su familia.	
+strange	extraño	
+It's strange that nobody knows us.	Es extraño que nadie nos conozca.	
+the factory	la fábrica	
+Many new factories have opened.	Se han abierto muchas nuevas fábricas.	
+easy	fácil	
+It isn't easy to learn a foreign language.	No es fácil aprender un idioma extranjero.	
+the skirt	la falda	
+Girls are wearing short skirts these days.	Las muchachas llevan faldas cortas estos días.	
+the mistake, lack	la falta	
+Are there any mistakes in this exercise?	Hay faltas en este ejercicio?	
+I need a hammer.	Me hace falta un martillo.	
+the family	la familia	
+There are five in our family.	Somos cinco en nuestra familia.	
+famous	famoso	
+He is one of Spain's most famous authors.	Es uno de los autores más famosos de España.	
+the faith	la fe	
+We must have faith in the president.	Hay que tener fe en el presidente.	
+the date (time)	la fecha	
+What is today's date?	Cuál es la fecha hoy?	
+congratulations	felicitaciones	
+Congratulations on your anniversary.	Felicitaciones en su aniversario.	
+happy	feliz	
+Happy new year!	Feliz año nuevo!	
+ugly	feo	
+He is neither handsome nor ugly.	No es ni guapo ni feo.	
+the railroad	el ferrocarril	
+Some new railroad trains go very fast.	Algunos nuevos trenes de ferrocarril van muy rápidos.	
+to trust	fiar	
+You can't trust anybody.	No se puede fiar de nadie.	
+a fever	una fiebre	
+With the fever that you have you cannot go out of the house.	Con la fiebre que tienes no puedes salir de casa.	
+the holiday, party	la fiesta	
+Tomorrow is a holiday.	Mañana es día de fiesta.	
+the end	el fin	
+The end of the semester will come soon.	Pronto llega el fin del semestre.	
+the signature, firm (business)	la firma	
+We need your signature, please.	Necesitamos su firma, por favor.	
+to sign	firmar	
+Sign here, please.	Firme usted aquí, por favor.	
+flamenco, Gypsy dancing and music	flamenco	
+Flamenco shows are popular in the south of Spain.	Los espectáculos flamencos son populares en el sur de España.	
+the flower	la flor	
+He sent flowers to his mother.	Mandó flores a su madre.	
+the match (to strike a flame)	el fósforo	
+Do you have a match? I'm sorry, but I don't smoke.	Tiene usted fósforo? Lo siento, pero no fumo.	
+the photo	la foto (la fotografía)	
+Where can I develop these photos?	Dónde puedo revelar estas fotos?	
+to fail	fracasar	
+They would have failed without help from the government.	Habrían fracasado sin la ayuda del gobierno.	
+the French (language)	el francés	
+I don't speak French, but I understand it a little.	No hablo francés, pero lo entiendo un poco.	
+France (female)	Francia	
+France is separated from Spain by the Pyrenees.	Francia está separada de España por los Pirineos.	
+the sentence, phrase	la frase	
+Write a composition of ten sentences.	Escriban una composición de diez frases.	
+the blanket (Latino)	la frazada	
+Ask for another blanket if it's cold tonight.	Pida otra frazada si hace frío esta noche.	
+the front (political, military)	el frente	
+They lost the war on the eastern front.	Perdieron la guerra en el frente del este.	
+the forehead	la frente	
+On hearing that, he knitted his brow.	Al oír eso, arrugó la frente.	
+cold	frío	
+The coffee is cold.	El café está frío.	
+fried	frito	
+Two fried eggs and coffee, please.	Dos huevos fritos y un café, por favor.	
+the border	la frontera	
+Do we have to get off the train at the border?	Tenemos que bajar del tren en la frontera?	
+the fire	el fuego	
+The fire was so intense that the firemen couldn't get into the house.	El fiiego fue tan intenso que los bomberos no pudieron entrar en la casa.	
+outside, out	fuera (de)	
+This highway will take you out of the city.	Esta carretera los llevará fuera de la ciudad.	
+strong	fuerte	
+The bull is stronger than the bullfighter, but he almost always loses.	El toro es más fuerte que el torero, pero casi siempre pierde.	
+to smoke	fumar	
+Smoking is not permitted in class.	No se permite fumar en clase.	
+the function, show, performance	la función	
+The last show goes on at eleven.	La última función empieza a las once.	
+to function, work	funcionar	
+The elevator is out of order.	El ascensor no funciona.	
+the soccer	el fútbol	
+Soccer is very popular in Spain.	El fútbol es muy popular en España.	
+the eyeglasses	las gafas	
+I use glasses only for reading.	Uso gafas solamente para leer.	
+the desire	la gana	
+I don't feel like going out tonight.	No tengo ganas de salir esta noche.	
+to earn, win	ganar	
+Who won the game?	Quién ganó el partido?	
+the bargain	la ganga	
+Many people look for bargains in the Rastro (flea market in Madrid) on Sunday mornings.	Mucha gente busca gangas en el Rastro los domingos por la mañana.	
+the throat	la garganta	
+He has a sore throat and can't speak.	Tiene un dolor de garganta y no puede hablar.	
+to spend	gastar	
+I don't like to spend money on foolishness.	No me gusta gastar dinero en tonterías.	
+the people	la gente	
+Many people came to the ceremony.	Mucha gente vino a la ceremonia.	
+the manager	el gerente	
+I want to talk to the manager.	Quiero hablar con el gerente.	
+the government	el gobierno	
+The new government has the support of the people.	El nuevo gobierno tiene el apoyo del pueblo.	
+the blow, knock	el golpe	
+It was like a blow to the head.	Fue como un golpe a la cabeza.	
+fat	gordo	
+If you keep on eating like that, you'll get fat.	Si sigues comiendo así, te pondrás gordo.	
+the drop (of liquid)	la gota	
+There's not a drop of water left.	No queda ni una gota de agua.	
+to enjoy	gozar (de)	
+They're enjoying good health.	Gozan de buena salud.	
+thanks	gracias	
+Thank you very much for your kindness.	Muchas gracias por su amabilidad.	
+big, large, great	gran, grande	
+President Lincoln was a great man and also a big man.	El presidente Lincoln fue un gran hombre y también un hombre grande.	
+to shout	gritar	
+There is no need to shout. They're coming just now.	No hay que gritar. Ya vienen.	
+the shout	el grito	
+A shout in the street awakened me.	Me despertó un grito en la calle.	
+the group	el grupo	
+There are two teachers and thirty pupils in our group.	Hay dos profesores y treinta alumnos en nuestro grupo.	
+the glove	el guante	
+When it's cold I put on gloves.	Cuando hace frío me pongo guantes.	
+handsome	guapo	
+In his family, all the men are handsome and the women pretty.	En su familia, todos los hombres son guapos y las mujeres bonitas.	
+(male or female) guard, police officer	la / el guardia	
+The police officers protect the public.	Los guardias protegen al público.	
+the war	la guerra	
+The Civil War in Spain lasted almost three years.	La Guerra Civil en España duró casi tres años.	
+the guide (person)	la / el guía	
+Our guide took us to all the points of interest.	Nuestra guía nos llevó a todos los puntos de interés.	
+the guidebook	la guía	
+How much is this guidebook of Mexico?	Cuánto cuesta esta guía de México?	
+to like, to please	gustar	
+We like to travel in the summer.	Nos gusta viajar en el verano.	
+the pleasure	el gusto	
+Pleased to meet you. The pleasure is mine.	Mucho gusto en conocerle. El gusto es mío.	
+the room	la habitación	
+All the rooms have a bath and telephone.	Todas las habitaciones tienen baño y teléfono.	
+to speak, to talk	hablar	
+I speak Spanish a little. Do you speak English?	Yo hablo español un poco. Habla usted inglés?	
+to do, to make	hacer	
+There are so many things to do.	Hay tantas cosas que hacer.	
+toward	hacia	
+He was walking toward the village.	Caminaba hacia la aldea.	
+to find	hallar	
+Where can one find a vegetarian restaurant?	Dónde se puede hallar un restaurante vegetariano?	
+the hunger	la hambre	
+I'm not hungry yet.	No tengo hambre todavía.	
+until	hasta	
+We waited for them until four o'clock.	Los esperamos hasta las cuatro.	
+there is, there are	hay	
+There are many places to visit.	Hay muchos lugares que visitar.	
+beautiful	hermoso	
+What a beautiful view!	Qué vista tan hermosa!	
+the ice	el hielo	
+Put a little bit of ice in my glass.	Eche un poco de hielo en mi vaso.	
+hi, hello	hola	
+Hi, how are you?	Hola. Qué tal?	
+the man	el hombre	
+There were more men than women at the meeting.	Había más hombres que mujeres en la reunión.	
+the hour, time	la hora	
+What time is it?	Qué hora es?	
+the schedule, timetable	el horario	
+I am looking for the bus schedule.	Busco el horario de los autobuses.	
+today	hoy	
+Today is the first day of classes.	Hoy es el primer día de clases.	
+the strike	la huelga	
+The municipal workers went out on strike.	Los obreros municipales se declararon en huelga.	
+(male or female) guest	la / el huésped	
+All the guests have already arrived.	Ya han llegado todos los huéspedes.	
+the smoke	el humo	
+You could see the smoke from far away.	Se podía ver el humo desde lejos.	
+the outward journey	la ida	
+A round-trip ticket, please.	Un billete de ida y vuelta, por favor.	
+the language	el idioma	
+I love to learn new languages.	Me encanta aprender nuevos idiomas.	
+the church	la iglesia	
+They go to church every Sunday.	Van a la iglesia todos los domingos.	
+equal, the same	igual	
+I love you the same as a flower loves the light of day.	Yo te amo igual que ama la flor la luz del día.	
+likewise	igualmente	
+Pleased to meet you. Likewise.	Mucho gusto en conocerle. Igualmente.	
+the raincoat	el impermeable	
+It's going to rain. Take your raincoat.	Va a llover. Lleva tu impermeable.	
+to import, to matter	importar	
+It doesn't matter to me what they say.	No me importa lo que dicen.	
+the tax	el impuesto	
+The taxes always go up.	Los impuestos siempre suben.	
+the fire	el incendio	
+In case of fire, do not use the elevator.	En caso de incendio, no use el ascensor.	
+to indicate, show	indicar	
+Would you show me the route on the map?	Quiere indicarme la ruta en el mapa?	
+the engineer	el ingeniero	
+My two brothers are engineers.	Mis dos hermanos son ingenieros.	
+England (female)	Inglaterra	
+England and Spain were rivals in the colonization of the New World.	Inglaterra y España eran rivales en la colonización del Nuevo Mundo.	
+the English (language)	el inglés	
+I'm not English but yes I do speak English.	No soy inglés pero sí hablo inglés.	
+immediately	inmediatamente	
+Get out (ustedes) of here immediately.	Salgan de aquí inmediatamente.	
+the interest	el interés	
+I'd like to visit all the points of interest.	Quisiera visitar todos los puntos de interés.	
+useless	inútil	
+It's useless to protest.	Es inútil protestar.	
+to go	ir	
+We can't go tomorrow.	No podemos ir mañana.	
+left	izquierda	
+Turn to your left at the first corner.	Doble a la izquierda en la primera esquina.	
+the soap	el jabón	
+Can you leave us another bar of soap?	Nos puede dejar otra barra de jabón?	
+never, ever	jamás	
+We've never seen such wealth.	No hemos visto jamás tanta riqueza.	
+the garden	el jardín	
+The palace is surrounded by gardens.	El palacio está rodeado de jardines.	
+the boss, chief, head	el jefe	
+Our boss always arrives early.	Nuestro jefe siempre llega temprano.	
+young	joven	
+He's very young to occupy such an important position.	Es muy joven para ocupar un puesto tan importante.	
+the jewel	la joya	
+He wanted to buy an elegant jewel for his wife.	Quería comprar una joya elegante para su esposa.	
+Jew	judío / judía	
+Many Sephardic Jews speak Spanish.	Muchos judíos sefarditas hablan español.	
+the game	el juego	
+Chess is a difficult game.	El ajedrez es un juego difícil.	
+(male or female) judge	la / el juez	
+Everyone stands up when the judge enters.	Todo el mundo se levanta cuando entra el juez.	
+to play	jugar	
+Who are the ones playing this afternoon?	Quiénes juegan esta tarde?	
+the toy	el juguete	
+How many toys children have these days	Cuántos juguetes tienen los niños estos días!	
+together	juntos	
+It will be better if we go together.	Será mejor si vamos juntos.	
+to swear	jurar	
+They swear that they didn't steal it.	Juran que no lo robaron.	
+a kilogram (2.2 lbs)	un kilogramo	
+It's sold at 200 euros a kilo.	Se vende a doscientos euros el kilo.	
+the kilometer (5/8 of a mile)	el kilómetro	
+The speed limit is 80 kilometers (50 miles) an hour.	La velocidad máxima es ochenta kilómetros por hora.	
+It's my mother's voice, I'd recognize it anywhere.	Es la voz de mi madre, yo la reconocería en cualquier parte.	
+Who wrote the notes? The secretary wrote them.	Quién escribió las notas? La secretaria las escribió.	
+the lip	el labio	
+She has ruby-red lips.	Ella tiene labios de rubí.	
+the side	el lado	
+His house is on the other side of the street.	Su casa está al otro lado de la calle.	
+the thief	el ladrón	
+The thief escaped in the confusion.	El ladrón se escapó en la confusión.	
+the lake	el lago	
+There's a big lake in the park.	Hay un gran lago en el parque.	
+the lamp	la lámpara	
+We need a reading lamp.	Necesitamos una lámpara para leer.	
+the wool	la lana	
+I want a wool sweater.	Quiero un suéter de lana.	
+the pencil	el lápiz	
+I couldn't take notes because I lost my pencil.	No podía tomar notas porque se me perdió el lápiz.	
+long	largo	
+He gave a very long talk.	Dio un discurso muy largo.	
+the pity	la lástima	
+What a pity that they haven't come!	Qué lástima que no hayan venido!	
+the sink, lavatory	el lavabo	
+Where are the lavatories?	Dónde están los lavabos?	
+to wash (oneself)	lavarse	
+Where can we wash our clothes?	Dónde podemos lavar la ropa?	
+to him, to her, to you	le	
+I'm speaking to you as a friend.	Le hablo como amigo.	
+the lesson	la lección	
+This lesson is more complicated than the previous one.	Esta lección es más complicada que la anterior.	
+to read	leer	
+I'd like to read everything he's written.	Me gustaría leer todo lo que ha escrito.	
+far (away)	lejos	
+It's very far from here.	Está muy lejos de aquí.	
+the language, tongue	la lengua	
+Several languages are spoken on the Iberian Peninsula.	Se hablan varias lenguas en la península ibérica.	
+slowly	lentamente	
+More slowly, please.	Más lentamente, por favor.	
+the eyeglasses	los lentes	
+If I lose my glasses, I can't see a thing.	Si pierdo mis lentes, no puedo ver nada.	
+the letter (of alphabet), handwriting	la letra	
+He has such a bad handwriting that I can't read his letter.	El tiene tan mala letra que no puedo leer su carta.	
+the sign	el letrero	
+"The sign says: ""Discounts today and tomorrow."""	"El letrero dice: ""Descuentos hoy y mañana."""	
+to lift, to raise	levantar	
+Raise your hand if you want to speak.	Levante la mano si quiere hablar.	
+to get up, stand up	levantarse	
+Stand up please, and speak in a loud voice.	Levántese por favor, y hable en voz alta.	
+the law	la ley	
+The judge explained the law to the members of the jury.	El juez explicó la ley a los miembros del jurado.	
+free	libre	
+Finally they were free from the tyrant.	Por fin quedaron libres del tirano.	
+the book	el libro	
+We have to read so many books in this course.	Tenemos que leer tantos libros en este curso.	
+light (weight)	ligero	
+A light coat is ideal for November.	Un abrigo ligero es ideal para noviembre.	
+the limit, boundary	el límite	
+What are the boundaries of your property?	Cuáles son los límites de su propiedad?	
+to clean	limpiar	
+Do they clean the rooms every day?	Limpian las habitaciones todos los días?	
+clean	limpio	
+Our room is always clean.	Nuestra habitación siempre está limpia.	
+pretty	lindo	
+They have a very pretty home.	Tienen una casa muy linda.	
+the line	la línea	
+Read the third line carefully.	Lean con cuidado la tercera línea.	
+the list, menu	la lista	
+Your name isn't on the guest list.	Su nombre no está en la lista de invitados.	
+ready, smart, bright	listo	
+She is very bright but is almost never ready on time.	Es muy lista pero casi nunca está lista a tiempo.	
+the liter (1.06 quarts)	el litro	
+Put in twenty liters, please.	Echeme veinte litros, por favor.	
+the it, him, you	el lo	
+I haven't seen him yet.	No lo he visto todavía.	
+crazy, insane, mad	loco	
+Are you crazy? You can't do that.	Estás loco? No puedes hacer eso.	
+Who ate the pies? The children ate them.	Quiénes comieron los pasteles? Los niños los comieron.	
+the struggle, fight	la lucha	
+It was a long, cruel struggle.	Fue una lucha larga y cruel.	
+then, after	luego	
+We ate lunch and then took a stroll.	Almorzamos y luego dimos un paseo.	
+the place	el lugar	
+It's a very pleasant place.	Es un lugar muy ameno.	
+the luxury	el lujo	
+The Ritz is a deluxe hotel.	El Ritz es un hotel de lujo.	
+the moon	la luna	
+The moon is full tonight.	La luna está llena esta noche.	
+the light	la luz	
+It's romantic to walk in the moonlight.	Es romántico caminar a la luz de la luna.	
+the call	la llamada	
+There was a call for you.	Hubo una llamada para usted.	
+to call (to be called)	llamarse	
+His name is Francisco, but everyone calls him Paco.	Se llama Francisco, pero todo el mundo le llama Paco.	
+the key	la llave	
+I lost my key and I can't open the door.	Perdí la llave y no puedo abrir la puerta.	
+the arrival	la llegada	
+We're awaiting my cousin's arrival.	Estamos esperando la llegada de mi primo.	
+to arrive	llegar	
+When does the train from Barcelona arrive?	Cuándo llega el tren de Barcelona?	
+to fill	llenar	
+Fill the tank, please.	Llene el tanque, por favor.	
+full	lleno	
+The glass is half full.	El vaso está medio lleno.	
+to carry, wear, take	llevar	
+They took us everywhere.	Nos llevaron a todas partes.	
+to cry	llorar	
+"A popular song says: ""Sing and don't cry."""	"Una canción popular dice: ""Canta y no llores."""	
+to rain	llover	
+It almost never rains in Madrid in the summer.	Casi nunca llueve en Madrid en el verano.	
+the rain	la lluvia	
+Last night's rain didn't cool things off at all.	La lluvia de anoche no refresco nada.	
+the wood	la madera	
+I keep my important papers in this wooden box.	Guardo mis papeles importantes en esta caja de madera.	
+ripe	maduro	
+The grapes aren't ripe yet.	Las uvas no están maduras todavía.	
+teacher	maestro / maestra	
+Teachers have a lot of patience.	Los maestros tienen mucha paciencia.	
+bad, badly, ill	mal(o)	
+The weather is bad and I feel bad.	Hace mal tiempo y me siento mal.	
+the suitcase	la maleta	
+They allow two suitcases on the plane.	Permiten dos maletas en el avión.	
+to send, to command	mandar	
+I'll send it by airmail.	Lo mandaré por correo aéreo.	
+the manner, the way	la manera	
+I'm charmed by his way of speaking.	Me encanta su manera de hablar.	
+the hand	la mano	
+He lost the use of his left hand in a battle.	Perdió el uso de la mano izquierda en una batalla.	
+the blanket (Hispanic)	la manta	
+Please leave two blankets on the bed.	Deje dos mantas en la cama, por favor.	
+to maintain, support	mantener	
+He supports his three younger brothers.	Mantiene a sus tres hermanos menores.	
+the morning, tomorrow	la mañana	
+We'll visit the palace tomorrow morning.	Visitaremos el palacio mañana por la mañana.	
+the map	el mapa	
+A highway map is useful.	Un mapa de carreteras es útil.	
+the sea	el mar	
+I like to walk along the seashore.	Me gusta caminar por las orillas del mar.	
+more	más	
+This is better but it's more expensive.	Esto es mejor pero es más caro.	
+He told me that he would help me.	Me dijo que me ayudaría.	
+the stocking	la media	
+Nylon stockings are popular these days.	Las medias de nilón son populares hoy día.	
+the midnight	la medianoche	
+In many nightclubs the action begins at midnight.	En muchas discotecas la acción empieza a medianoche.	
+the doctor	el médico	
+I don't feel well. Call the doctor, please.	No me siento bien. Llame al médico, por favor.	
+the size, measurement	la medida	
+What size (measurement) do you wear?	Qué medida lleva usted?	
+half	medio	
+They came at half past ten.	Vinieron a las diez y media.	
+the noon	el mediodía	
+We can have lunch at noon.	Podemos almorzar a mediodía.	
+better, best	mejor	
+It will be better to leave it for tomorrow.	Será mejor dejarlo para mañana.	
+to improve, feel better	mejorar	
+I hope you feel better soon.	Espero que mejore pronto.	
+smaller, smallest, younger, youngest	menor	
+I have two younger sisters.	Tengo dos hermanas menores.	
+less, least	menos	
+Do you have something less expensive?	Tiene usted algo menos caro?	
+the lie	la mentira	
+Don't pay attention to the lies they tell about you.	No hagas caso de las mentiras que dicen de ti.	
+often	a menudo	
+He would often arrive late.	A menudo llegaba tarde.	
+the market	el mercado	
+This market has everything you need.	Este mercado tiene todo lo que usted necesita.	
+to deserve	merecer	
+He deserves a prize for what he's done.	Merece un premio por lo que ha hecho.	
+the afternoon or morning snack	la merienda	
+Since they dine so late, they have an afternoon snack at about six.	Como cenan tan tarde, toman una merienda a eso de las seis.	
+the month	el mes	
+We're going to spend the month of January in the south.	Vamos a pasar el mes de enero en el sur.	
+the table	la mesa	
+The table in the dining room is bigger.	La mesa en el comedor es más grande.	
+waiter, waitress	mesero, mesera	
+The waiters are trying to serve quickly.	Los meseros tratan de servir rápidamente.	
+to put (in)	meter	
+I don't know where I put my purse.	No sé donde metí mi cartera.	
+the method	el método	
+They are looking for a more efficient method.	Buscan un método más eficaz.	
+a meter (1.1 yards), a subway (Hispanic)	un metro	
+There are a thousand meters in a kilometer.	Hay mil metros en un kilómetro.	
+my	mi, mis	
+I want to introduce my wife and my children to you.	Quiero presentarle mi esposa y mis hijos.	
+the fear	el miedo	
+He's afraid to go out at night.	Tiene miedo de salir de noche.	
+the member	el miembro	
+Are you a member of this society?	Es usted miembro de esta sociedad?	
+whereas	mientras que	
+She went out with the group whereas I was resting.	Ella salió con el grupo mientras que yo descansaba.	
+the miracle	el milagro	
+It's a miracle that I didn't die.	Es un milagro que no haya muerto.	
+the mile	la milla	
+How many kilometers are there in ten miles?	Cuántos kilómetros hay en diez millas?	
+mine	mío	
+These suitcases aren't mine.	Estas maletas no son mías.	
+to look (at)	mirar	
+Look (ustedes) at the beautiful sunset!	Miren la hermosa puesta de sol!	
+same, oneself	mismo	
+The guide himself told us the same thing.	El guía mismo nos dijo la misma cosa.	
+the half	la mitad	
+I will give you half of everything I have.	Le daré la mitad de todo lo que tengo.	
+the style, fashion	la moda	
+These dresses are no longer in fashion.	Estos vestidos ya no están de moda.	
+the way, manner	el modo	
+In what way can we arrange it?	De qué modo podemos arreglarlo?	
+to wet	mojar	
+Take an umbrella if you don't want to get wet.	Lleva un paraguas si no quieres mojarte.	
+to disturb, to bother, to molest	molestar	
+Forgive me if I am disturbing you.	Perdone si le molesto.	
+the bother	la molestia	
+It’s no bother at all.	No es ninguna molestia.	
+the coin	la moneda	
+Give the beggar a coin.	Dale una moneda al mendigo.	
+the mountain	la montaña	
+It is cooler in the mountains.	Hace más fresco en las montañas.	
+brunette, dark-complexioned	moreno	
+He says he has many girlfriends, blondes and brunettes.	Dice que tiene muchas novias, rubias y morenas.	
+to die	morir	
+The general died in 1975.	El general murió en 1975.	
+to show	mostrar	
+Show me what you have.	Muéstreme lo que tiene.	
+the porter, young man	el mozo	
+I am looking for a porter to take my luggage.	Busco un mozo para llevar mi equipaje.	
+boy, girl	muchacho, muchacha	
+The boys are playing in the street.	Los muchachos están jugando en la calle.	
+much, a lot	mucho	
+I enjoyed myself very much. Thanks a lot.	Me divertí mucho. Muchas gracias.	
+to change, move	mudar	
+I'm sorry, but we have to change your room.	Lo siento, pero tenemos que mudar su habitación.	
+the furniture	los muebles	
+The furniture looks very modern to me.	Los muebles me parecen muy modernos.	
+the death	la muerte	
+I saw the announcement of his death in the newspaper.	Ví el anuncio de su muerte en el periódico.	
+dead	muerto	
+I'm starving to death.	Estoy muerto de hambre.	
+the sample	la muestra	
+Here you have a sample of our work.	Aquí tiene usted una muestra de nuestro trabajo.	
+the woman, wife	la mujer	
+They are looking for a tail, slender woman.	Buscan una mujer alta y delgada.	
+the fine	la multa	
+He had to pay a fine.	Tuvo que pagar una multa.	
+the world	el mundo	
+I'd like to travel all over the world.	Me gustaría viajar por todo el mundo.	
+the doll	la muñeca	
+I'm looking for a doll for my niece.	Estoy buscando una muñeca para mi sobrina.	
+the museum	el museo	
+There isn't enough time to visit all the museums.	No hay bastante tiempo para visitar todos los museos.	
+the music	la música	
+There are many musical programs in a number of theaters.	Hay muchos programas de música en varios teatros.	
+very	muy	
+We are very well, thank you.	Estamos muy bien, gracias.	
+to be born	nacer	
+In what year were you born?	En qué año nació usted?	
+nothing	nada	
+I didn't tell him anything.	No le dije nada.	
+to swim	nadar	
+He says he doesn't know how to swim.	Dice que no sabe nadar.	
+the Christmas	la Navidad	
+Merry Christmas!	Feliz Navidad!	
+no one, nobody	nadie	
+I haven't seen anyone yet.	No he visto a nadie todavía.	
+the nose	la nariz	
+She has a Roman nose.	Tiene una nariz romana.	
+necessary	necesario	
+Are all these preparations necessary?	Son necesarias todas estas preparaciones?	
+to need	necesitar	
+We need more time to see everything.	Necesitamos más tiempo para verlo todo.	
+to deny	negar	
+They deny that they stole it.	Niegan que lo hayan robado.	
+the businessman	el negociante	
+Many businessmen use this hotel.	Muchos negociantes usan este hotel.	
+the businesses	los negocios	
+My company has a lot of business dealings in your country.	Mi compañía tiene muchos negocios en su país.	
+to snow	nevar	
+It snows only in the mountains.	Nieva sólo en las montañas.	
+neither, nor	ni	
+He speaks neither Spanish nor French.	No habla ni español ni francés.	
+the fog	la niebla	
+A thick fog was covering the mountain in the morning.	Una espesa niebla cubría la montaña por la mañana.	
+the snow	la nieve	
+To the north of Madrid, there's enough snow to ski.	Al norte de Madrid, hay bastante nieve para esquiar.	
+none, not one	ningún, ninguno	
+None of them knew the answer.	Ninguno de ellos sabía la respuesta.	
+child, boy, girl	niño, niña	
+She's a very cute child.	Es una niña muy mona.	
+the level	el nivel	
+We're at a thousand meters above sea level.	Estamos a mil metros sobre el nivel del mar.	
+no, not	no	
+No, I can't go out tonight.	No, no puedo salir esta noche.	
+the night	la noche	
+What are we going to do tonight?	Qué vamos a hacer esta noche?	
+the name	el nombre	
+What is your name?	Cuál es su nombre?	
+the north	el norte	
+We do not yet know the north of the country.	No conocemos todavía el norte del país.	
+They called us and invited us to the party.	Nos llamaron y nos invitaron a la fiesta.	
+We want to sleep but they don't let us.	Nosotros queremos dormir pero ellos no nos dejan.	
+the news, piece of news	la noticia	
+He gave us a piece of bad news.	Nos dio una mala noticia.	
+fiancé, boyfriend, girlfriend	novio, novia	
+My son is very much in love with his girlfriend.	Mi hijo está muy enamorado de su novia.	
+the cloud	la nube	
+There's not a cloud in the sky.	No hay ni una nube en el cielo.	
+cloudy	nublado	
+It's cloudy and it looks as if it's going to rain.	Está nublado y parece que va a llover.	
+our	nuestro	
+Our guide is very well prepared.	Nuestro guía está muy bien preparado.	
+new	nuevo	
+What's new?	Qué hay de nuevo?	
+the number	el número	
+What's your telephone number?	Cuál es su número de teléfono?	
+never	nunca	
+I have never been to Guatemala.	No he estado nunca en Guatemala.	
+or, either	o	
+We'll be here four or five days.	Estaremos aquí cuatro o cinco días.	
+the object, purpose	el objeto	
+What is the purpose of your visit?	Cuál es el objeto de su visita?	
+to oblige, force	obligar	
+They forced us to take another route.	Nos obligaron a tomar otra ruta.	
+the work (of art)	la obra	
+His best works are in this museum.	Sus mejores obras están en este museo.	
+to obtain, get	obtener	
+Where can we get a pass?	Dónde podemos obtener un pase?	
+the ocean	el océano	
+The Atlantic Ocean is between America and Europe.	El Océano Atlántico está entre América y Europa.	
+busy, occupied	ocupado	
+If I’m not busy tomorrow, I’ll be very pleased to go with you.	Si no estoy ocupado mañana, tendré mucho gusto en ir con ustedes.	
+to happen, to occur	ocurrir	
+Wow, what happened?	Ay, qué ocurrió?	
+to hate	odiar	
+I hate corrupt politicians.	Odio a los políticos corruptos.	
+the west	el oeste	
+To the west we have the Andes.	En el oeste tenemos los Andes.	
+the office	la oficina	
+Come to see me in my office.	Venga a verme en mi oficina.	
+the ear, hearing	el oído	
+I have no ear for music.	No tengo oído para la música.	
+to hear	oír	
+I can't hear a thing because the train is going.	No oigo nada porque el tren está pasando.	
+I wish (that)!	Ojalá!	
+I wish they'd arrive soon!	Ojalá que lleguen pronto!	
+the eye	el ojo	
+I have something in my eye.	Tengo algo en el ojo.	
+to smell	oler	
+Everything smells very good.	Todo huele muy bien.	
+the odor, smell	el olor	
+There is a bad tobacco odor here.	Hay un mal olor de tabaco aquí.	
+to forget	olvidar	
+I recall his face but I forgot his name.	Recuerdo su cara pero olvidé su nombre.	
+ounce	onza	
+An ounce of this perfume costs fifty dollars.	Una onza de este perfume cuesta cincuenta dólares.	
+the opportunity	la oportunidad	
+Don't miss this opportunity.	No pierdan esta oportunidad.	
+the order, sequence	el orden	
+He arranged them in alphabetical order.	Los arregló en orden alfabético.	
+the command, order (business)	la orden	
+He did it in accordance with the order that his boss gave him.	Lo hizo según la orden que le dio su jefe.	
+the computer	el ordenador	
+Even children in elementary school learn to use the computer.	Hasta los niños en la escuela primaria aprenden a usar el ordenador.	
+the ear	la oreja	
+He has very big ears.	Tiene las orejas muy grandes.	
+the gold	el oro	
+The gold earrings cost more.	Los aretes de oro cuestan más.	
+other, another	otro	
+I can't eat another thing.	No puedo comer otra cosa.	
+to pay	pagar	
+We have to pay the bill.	Hay que pagar la cuenta.	
+the page	la página	
+On what page is it?	En qué página está?	
+the country	el país	
+I'd like to visit all the countries of Latin America.	Me gustaría visitar todos los países de américa latina.	
+the landscape	el paisaje	
+It's a very picturesque landscape.	Es un paisaje muy pintoresco.	
+the word	la palabra	
+I've never heard that word.	Nunca he oído esa palabra.	
+the palace	el palacio	
+Don't fail to visit the Royal Palace.	No dejen de visitar el Palacio Real.	
+pale	pálido	
+He became pale when he heard the news.	Se puso pálido cuando oyó la noticia.	
+the pants, the trousers	los pantalones	
+Do they sell pants in a haberdashery?	Venden pantalones en una camisería?	
+the handkerchief	el pañuelo	
+Put your handkerchief in your pocket.	Mete el pañuelo en tu bolsillo.	
+the paper	el papel	
+Don't leave the papers on the table.	No deje los papeles en la mesa.	
+the package	el paquete	
+May I leave this package here?	Puedo dejar aquí este paquete?	
+the pair	el par	
+I need a pair of socks.	Necesito un par de calcetines.	
+for, in order to	para	
+He left for Spain in order to study at the university.	Salió para España para estudiar en la universidad.	
+the stop	la parada	
+The bus stop is on the next corner.	La parada del autobús está en la próxima esquina.	
+the umbrella	el paraguas	
+When it's cloudy, it's a good idea to take an umbrella.	Cuando está nublado, es una buena idea llevar un paraguas.	
+to stop	parar	
+Stop here for a minute.	Pare aquí por un minuto.	
+to seem	parecer	
+It seems that they're not coming.	Parece que no vienen.	
+the wall	la pared	
+I would hang a picture on that wall.	Yo colgaría un cuadro en esa pared.	
+(male or female) the relative	la / el pariente	
+He has relatives all over the world.	Tiene parientes en todas partes del mundo.	
+the park	el parque	
+Don't run in the park at night.	No corras en el parque por la noche.	
+the paragraph	el párrafo	
+We can drop the last paragraph.	Podemos eliminar el último párrafo.	
+the part	la parte	
+What part do you want?	Qué parte quiere usted?	
+the game (match), the party (political)	el partido	
+I think the Republican party is going to win.	Creo que el partido republicano va a ganar.	
+past, last	pasado	
+We came last week.	Vinimos la semana pasada.	
+the passenger	el pasajero	
+All passengers have to get off here.	Todos los pasajeros tienen que bajar aquí.	
+to pass, spend	pasar	
+We still don't know where we're going to spend our vacation.	No sabemos todavía donde vamos a pasar las vacaciones.	
+a stroll, a ride	un paseo	
+Let's take a stroll through the park.	Vamos a dar un paseo por el parque.	
+the aisle, the corridor	el pasillo	
+The aisle is very narrow.	El pasillo es muy estrecho.	
+the pace, opening	el paso	
+After taking two steps, he tripped and fell.	Después de dar dos pasos tropezó y cayó.	
+the tablet, lozenge	la pastilla	
+Take two tablets and call me in the morning.	Tome dos pastillas y llámeme por la mañana.	
+the boss, owner	el patrón	
+The boss works as hard as his workers.	El patrón trabaja tanto como sus obreros.	
+the peace	la paz	
+Leave me in peace, I'm tired.	Déjenme en paz, estoy cansado.	
+the pedestrian	el peatón	
+The traffic stops to let the pedestrians cross.	El tráfico para para dejar pasar a los peatones.	
+the sin	el pecado	
+It is not such a serious sin.	No es un pecado tan grave.	
+the chest (human body)	el pecho	
+If you feel a pain in the chest, call the doctor at once.	Si siente un dolor en el pecho, llame en seguida al médico.	
+the piece	el pedazo	
+He cut his hand on a piece of metal.	Se cortó la mano en un pedazo de metal.	
+to ask for, to order	pedir	
+I'd like to ask you for a favor.	Quisiera pedirle un favor.	
+to strike, to paste	pegar	
+They pasted a sign on the wall.	Pegaron un cartel en la pared.	
+the movie, film	la película	
+I like to go to the movies when they show a good film.	Me gusta ir al cine cuando dan una buena película.	
+the danger	el peligro	
+He didn't understand the danger that was threatening him.	No comprendió el peligro que le amenazaba.	
+dangerous	peligroso	
+It's dangerous to be in the park at night.	Es peligroso estar en el parque de noche.	
+the hair	el pelo	
+I have to have my hair cut.	Tengo que cortarme el pelo.	
+the ball	la pelota	
+The children are playing ball.	Los niños están jugando a la pelota.	
+the ache, the grief	la pena	
+It grieves me to see you like this.	Me da pena verte así.	
+the earrings (Hispanic)	los pendientes	
+I'm looking for earrings (Hispanic) as a gift for my girlfriend.	Busco unos pendientes como regalo para mi novia.	
+_to think, intend	pensar	
+What do you intend to do tonight? I think we'll stay home.	Qué piensan ustedes hacer esta noche? Yo pienso que nos quedamos en casa.	
+the boardinghouse	la pensión	
+In general, boarding houses are cheaper than hotels.	Por lo general, las pensiones son más baratas que los hoteles.	
+worse, worst	peor	
+How do you feel, better or worse?	Cómo se siente usted, mejor o peor?	
+small, little	pequeño	
+This room is too small.	Esta habitación es demasiado pequeña.	
+to lose, to miss	perder	
+I missed the train and had to take a bus.	Perdí el tren y tuve que tomar un autobús.	
+"""Pardon me"", forgiveness"	perdón	
+He asked me for forgiveness for what he had done.	Me pidió perdón por lo que había hecho.	
+Pardon me, I didn't mean to interrupt.	Perdón, no quería interrumpir.	
+the newspaper	el periódico	
+I'm going to buy two newspapers, one in English and another in Spanish.	Voy a comprar dos periódicos, uno en inglés y otro en español.	
+to remain, to stay	permanecer	
+How long do you plan to stay here?	Cuánto tiempo piensan permanecer aquí?	
+the permission, pass	el permiso	
+With your permission, let me (ustedes) pass.	Con permiso, dejenme pasar.	
+to permit, allow	permitir	
+They didn't let us in.	No nos permitieron entrar.	
+but	pero	
+We'd like to visit other cities, but we don't have time.	Quisiéramos visitar otras ciudades, pero no tenemos tiempo.	
+to belong	pertenecer	
+To whom do these documents belong?	A quién pertenecen estos documentos?	
+heavy	pesado	
+I can't lift such a heavy suitcase.	No puedo levantar una maleta tan pesada.	
+to weigh	pesar	
+We have to weigh the luggage.	Tenemos que pesar el equipaje.	
+the weight	el peso	
+In Spain weight is expressed in kilos.	En España el peso se expresa en kilos.	
+hot, spicy	picante	
+Tell the waiter if you want a less spicy dish.	Dígale al camarero si quiere un plato menos picante.	
+peak, a little	pico	
+It's a little after seven.	Son las siete y pico.	
+the foot	el pie	
+My feet hurt after walking so much.	Me duelen los pies después de caminar tanto.	
+the stone	la piedra	
+The house is built of stone.	La casa está construida de piedra.	
+the skin	la piel	
+She takes good care of her skin.	Cuida mucho de su piel.	
+the leg	la pierna	
+My left leg hurts.	Me duele la piema izquierda.	
+the pill	la píldora	
+The doctor prescribed some pills for me.	El médico me recetó algunas píldoras.	
+to paint	pintar	
+An inspired artist paints day and night.	Un artista inspirado pinta día y noche.	
+picturesque	pintoresco	
+These villages are very picturesque.	Estas aldeas son muy pintorescas.	
+the painting	la pintura	
+In these rooms we have the paintings of Goya.	En estas salas tenemos las pinturas de Goya.	
+the swimming pool	la piscina	
+When it's hot, I cool off in the pool.	Cuando hace calor, me refresco en la piscina.	
+the floor, apartment	el piso	
+This building has six floors.	Este edificio tiene seis pisos.	
+to iron, press	planchar	
+Can you clean and press these pants for me?	Me pueden limpiar y planchar estos pantalones?	
+the map	el plano	
+I always carry the subway map with me.	Siempre llevo conmigo el plano del metro.	
+the silver, money	la plata	
+They found silver mines in Mexico and Peru.	Encontraron minas de plata en México y Perú.	
+the banana	el plátano	
+For breakfast today I ate two bananas.	Para el desayuno hoy comí dos plátanos.	
+the plate, dish	el plato	
+The daily special has a lower price.	El plato del día tiene un precio reducido.	
+the beach	la playa	
+Go to the beach if you want to swim in the ocean.	Vaya a la playa si quiere nadar en el mar.	
+the plaza, public square	la plaza	
+Some of the plazas have impressive monuments.	Algunas de las plazas tienen monumentos impresionantes.	
+the pen, feather	la pluma	
+Sign with a pen, please.	Firme con pluma, por favor.	
+poor	pobre	
+They are so poor that they don't have enough to eat.	Son tan pobres que no tienen bastante para comer.	
+a little, a small amount	un poco	
+A little more, please.	Un poco más, por favor.	
+to be able to, can	poder	
+Can we count on you?	Podemos contar con usted?	
+the poetry	la poesía	
+The poetry of Lope is most beautiful.	La poesía de Lope es bellísima.	
+the police, the police officer	la policía	
+The police came at once.	La policía vino en seguida.	
+Two policemen arrested the criminal.	Dos policías arrestaron al criminal.	
+to put, to place	poner	
+Can I put my things here?	Puedo poner mis cosas aquí?	
+for, by, in exchange for	por	
+The letter was written by his friend.	La carta fue escrita por su amigo.	
+because	porque	
+I'm not going because I don't want to go.	No voy porque no quiero ir.	
+why?	por qué?	
+Why didn't they let me know?	Por qué no me avisaron?	
+the doorman, porter	el portero	
+The door man will get us a cab.	El portero nos buscará un taxi.	
+the price	el precio	
+We are looking for a restaurant with moderate prices.	Buscamos un restaurante con precios módicos.	
+a question	una pregunta	
+It's a question he couldn't answer.	Es una pregunta que no pudo contestar.	
+to ask	preguntar	
+Ask the policeman where the bank is.	Pregúntele al policía donde está el banco.	
+the prize, award	el premio	
+His novel received the literature prize last year.	Su novela recibió el premio de literatura el año pasado.	
+to worry	preocuparse	
+Don't worry about that.	No se preocupe por eso.	
+to prepare	preparar	
+They've already prepared the rooms.	Ya han preparado las habitaciones.	
+to lend	prestar	
+Can you lend me a hundred dollars?	Me puede prestar cien dólares?	
+the budget	el presupuesto	
+They had to cancel some programs because of budget problems.	Tuvieron que cancelar algunos programas por problemas del presupuesto.	
+the first	primer, el primero	
+January 1st is the first day of the new year.	El primero de enero es el primer día del año nuevo.	
+a hurry	una prisa	
+I'm in a hurry because it's already late.	Tengo prisa porque ya es tarde.	
+to taste, to prove	probar	
+Try this, to see if you like it.	Pruebe usted esto, a ver si le gusta.	
+the problem	el problema	
+How are we going to resolve all these problems?	Cómo vamos a resolver todos estos problemas?	
+to prohibit, forbid	prohibir	
+No billposters allowed.	Se prohibe fijar carteles.	
+the promise	la promesa	
+He never keeps his promise.	Nunca cumple su promesa.	
+to promise	prometer	
+I promise to come back early.	Prometo volver temprano.	
+soon	pronto	
+They should arrive very soon.	Deben llegar muy pronto.	
+the property	la propiedad	
+It's a very valuable property.	Es una propiedad muy valiosa.	
+the owner, proprietor	el propietario	
+The owner doesn't want to sell.	El propietario no quiere vender.	
+the tip	la propina	
+A ten percent tip is enough.	Una propina de diez por ciento basta.	
+the purpose	el propósito	
+What is the purpose of your visit?	Cuál es el propósito de su visita?	
+to protect	proteger	
+He wants to protect our interests.	Quiere proteger nuestros intereses.	
+the profit, benefit	el provecho	
+I don't make any profit from this deal.	No saco ningún provecho de este negocio.	
+next	próximo	
+There is a bank at the next corner.	Hay un banco en la próxima esquina.	
+the project	el proyecto	
+The senate approved this project.	El senado aprobó este proyecto.	
+the proof, test	la prueba	
+What proof do you have?	Qué prueba tiene usted?	
+the village, town	el pueblo	
+There are many tranquil, picturesque villages in the south.	Hay muchos pueblos tranquilos y pintorescos en el sur.	
+the bridge	el puente	
+The bridge was destroyed during the war.	El puente fue destruido durante la guerra.	
+the door	la puerta	
+The door was closed when we arrived.	La puerta estaba cerrada cuando llegamos.	
+the port, harbor	el puerto	
+Barcelona is the principal port of Spain.	Barcelona es el puerto principal de España.	
+the post, the job, the position, the stand	el puesto	
+What kind of job are you looking for?	Qué clase de puesto busca?	
+the bracelet	la pulsera	
+A silver bracelet is a pretty gift.	Una pulsera de plata es un bonito regalo.	
+the point, dot	el punto	
+They have to clarify several points.	Tienen que aclarar varios puntos.	
+I arrived at two o'clock sharp.	Llegué a las dos en punto.	
+that, which, who	que	
+I didn't know that they were here.	Yo no sabía que ellos estaban aquí.	
+what?	qué?	
+What do you want to know?	Qué quiere usted saber?	
+to remain, to be left	quedar	
+How much time do we have left?	Cuánto tiempo nos queda?	
+the complaint	la queja	
+There are more complaints in this department than in any other.	Hay más quejas en este departamento que en ningún otro.	
+to complain	quejarse	
+What are you complaining about?	De qué se quejan ustedes?	
+to burn	quemar	
+Careful, don't burn the meal.	Cuidado, no quemes la comida.	
+to want, wish, love	querer	
+What do you want to do today?	Qué quieren hacer hoy?	
+who, whom	quien	
+The girl I went out with last night is called Luisa.	La chica con quien salí anoche se llama Luisa.	
+who, whom?	quién?	
+Who called up?	Quién llamó?	
+to take away	quitar	
+Please take away this dirty plate.	Por favor, quite este plato sucio.	
+to undress (oneself)	quitarse	
+They took off their shoes before entering.	Se quitaron los zapatos antes de entrar.	
+perhaps	quizás	
+"She always answers me ""Perhaps, perhaps""."	"Ella siempre me contesta ""Quizás, quizás""."	
+quick, rapid	rápido	
+It was a very quick decision.	Fue una decisión muy rápida.	
+while	rato	
+We had to wait for a while.	Tuvimos que esperar un rato.	
+the reason	la razón	
+He must have his reasons for having done it this way.	Tendrá sus razones por haberlo hecho así.	
+He thinks he's always right.	Él cree que siempre tiene razón.	
+royal	real	
+The royal family leaves Madrid in the summer.	La familia real se va de Madrid en el verano.	
+the message	el recado	
+Leave a message at the (hotel) desk.	Deje un recado en la recepción.	
+the recipe, prescription	la receta	
+Bring the prescription to a pharmacy.	Lleve la receta a una farmacia.	
+to receive	recibir	
+I expect to receive an important letter today.	Espero recibir una carta importante hoy.	
+the receipt	el recibo	
+I need a receipt for Customs.	Necesito un recibo para la aduana.	
+to recognize	reconocer	
+I recognized him at once but I don't recall his name.	Le reconoci en seguida pero no recuerdo su nombre.	
+to recall, to remember	recordar	
+Do you recall what the guide said?	Recuerda usted lo que dijo el guía?	
+remembrance, regards, souvenir	recuerdo	
+Regards to all at home.	Recuerdos a todos en casa.	
+to reject	rechazar	
+They rejected our request.	Rechazaron nuestra solicitud.	
+the gift	el regalo	
+There are many stores where you can buy gifts.	Hay muchas tiendas donde se pueden comprar regalos.	
+the regime, diet	el régimen	
+Under the old regime there wasn't so much crime.	Bajo el antiguo régimen no había tanto crimen.	
+the rule, regulation	la regla	
+We have to obey the rules.	Tenemos que obedecer las reglas.	
+to return, to come back, to go back	regresar	
+We hope to return next year.	Esperamos regresar el año que viene.	
+regular, OK	regular	
+How do you feel? OK.	Cómo se siente usted? Regular.	
+the queen	la reina	
+I recommend a visit to the Queen Sophia Museum.	Recomiendo una visita al museo Reina Sofía.	
+to laugh	reírse	
+What are you laughing at?	De qué se ríe usted?	
+the clock, watch	el reloj	
+My watch isn't going right.	Mi reloj no anda bien.	
+the remedy, cure	el remedio	
+There is no remedy for that illness.	No hay remedio para esa enfermedad.	
+the line	el renglón	
+On what line is that sentence?	En qué renglón está esa frase?	
+suddenly	de repente	
+Suddenly the child appeared.	De repente apareció el niño.	
+to repeat	repetir	
+Will you repeat what you said?	Quiere usted repetir lo que dijo?	
+the cold (respiratory)	el resfriado	
+Don't come near me, I have a contagious cold.	No se acerque, tengo un resfriado contagioso.	
+to breathe	respirar	
+Breathe deeply, please.	Respire usted fuerte, por favor.	
+to answer, reply	responder	
+I wrote to them several times, but they didn't answer.	Les escribí varias veces, pero no respondieron.	
+the answer, reply	la respuesta	
+We are awaiting their reply.	Esperamos su respuesta.	
+the delay	el retraso	
+The train arrived with a two hour delay.	El tren llegó con un retraso de dos horas.	
+a picture (of people), portrait	un retrato	
+He carries a picture of his wife and children in his wallet.	Lleva un retrato de su esposa e hijos en su cartera.	
+the meeting, reunion	la reunión	
+It's a meeting of modern language teachers.	Es una reunión de profesores de lenguas modernas.	
+to reveal, to develop (film)	revelar	
+What's the charge for developing a roll?	Cuánto cuesta revelar un rollo?	
+the magazine	la revista	
+They sell magazines from all over in this store.	Se venden revistas de todas partes en esta tienda.	
+the king	el rey	
+King Juan Carlos is the grandson of King Alfonso XIII.	El Rey Juan Carlos es el nieto del Rey Alfonso XIII (trece).	
+rich, delicious	rico	
+They must be rich if they live in this palace.	Deben ser ricos si viven en este palacio.	
+the corner	el rincón	
+You (all) can put a small chair in this corner.	Pueden poner una silla pequeña en este rincón.	
+the river	el río	
+There aren't many navigable rivers in Spain.	No hay muchos ríos navegables en España.	
+to rob, to steal	robar	
+They robbed him of everything he had.	Le robaron todo lo que tenía.	
+the knee	la rodilla	
+He got down on his knees and asked for forgiveness.	Se puso de rodillas y pidió perdón.	
+to break, tear	romper	
+Be careful, don't break anything.	Cuidado, no rompa nada.	
+the clothing, clothes	la ropa	
+It isn't necessary to bring a lot of clothes.	No es necesario traer mucha ropa.	
+broken	roto	
+That chair is broken.	Esa silla está rota.	
+the noise	el ruido	
+The airplane noise drives me crazy.	El ruido de los aviones me vuelve loco.	
+the route	la ruta	
+We had to change our route because of the construction.	Tuvimos que cambiar de ruta por la construcción.	
+the (bed) sheet	la sábana	
+They don't change the sheets everyday.	No cambian las sábanas todos los días.	
+to know	saber	
+We don't know if he's coming or not.	No sabemos si viene o no.	
+to take out	sacar	
+He took out all the money he had.	Sacó todo el dinero que tenía.	
+the bag, sack, jacket (Latin America)	el saco	
+They examine all bags on entering that building.	Examinan todos los sacos al entrar en ese edificio.	
+the living room	la sala	
+We receive our guests in the living room.	Recibimos a nuestros huéspedes en la sala.	
+the exit	la salida	
+The exit is on the left.	La salida está a la izquierda.	
+to leave, to go out	salir	
+When does the last train leave?	Cuándo sale el último tren?	
+the salon, classroom	el salón	
+Our math class is in room 12.	Nuestra clase de matemáticas está en el salón 12 (doce).	
+the health	la salud	
+He eats well and enjoys good health.	Come bien y goza de buena salud.	
+to greet	saludar	
+He greeted us and we spoke for a few minutes.	Nos saludó y hablamos por algunos minutos.	
+the greeting, regards	el saludo	
+Regards to the family.	Saludos a la familia.	
+the blood	la sangre	
+He lost a lot of blood during the operation.	Perdió mucha sangre durante la operación.	
+satisfied	satisfecho	
+We aren't satisfied with today's excursion.	No estamos satisfechos con la excursión de hoy.	
+They don't see each other often but they write to each other every day.	No se ven mucho pero se escriben todos los días.	
+to dry	secar	
+We have to wash and dry the dishes.	Tenemos que lavar y secar los platos.	
+dry	seco	
+The clothing is dry already.	La ropa ya está seca.	
+the thirst	la sed	
+When it's hot I'm always thirsty.	Cuando hace calor siempre tengo sed.	
+the silk	la seda	
+She is looking for some silk ties.	Busca unas corbatas de seda.	
+to follow, to continue	seguir	
+Follow me and I'll point out the number you're looking for.	Sígame y le indicaré el número que busca.	
+Go on reading.	Siga leyendo.	
+according to	según	
+According to the president, there is nothing to fear.	Según el presidente, no hay nada que temer.	
+the second	el segundo	
+One second, please. I'm busy.	Un segundo, por favor. Estoy ocupado.	
+sure, certain	seguro	
+I was sure that I had it with me.	Estaba seguro de que lo tenía conmigo.	
+the insurance	el seguro	
+Do you have life insurance?	Tiene seguro sobre la vida?	
+the stamp	el sello	
+Five airmail stamps to the United States.	Cinco sellos de correo aéreo para los Estados Unidos.	
+the week	la semana	
+We're going to spend two weeks in the capital.	Vamos a pasar dos semanas en la capital.	
+simple, plain	sencillo	
+Our plan is very simple.	Nuestro plan es muy sencillo.	
+to sit down	sentarse	
+Sit down please, we're beginning soon.	Siéntense, por favor, empezamos pronto.	
+to be sorry	sentir	
+I'm sorry, but I can't come.	Lo siento, pero no puedo venir.	
+to feel	sentirse	
+Since he wasn't feeling well, he decided to stay home.	Como no se sentía bien, decidió quedarse en casa.	
+the signal	la señal	
+Let's arrange a signal in case of emergency.	Vamos a arreglar una señal en caso de emergencia.	
+the gentleman, sir, Mr	el señor	
+Is Mr López in? Yes, sir.	Está el Señor López? Sí, señor.	
+the lady, madam, Mrs	la señora	
+Mrs Blanco is my art teacher.	La señora Blanco es mi profesora de arte.	
+the young lady, Miss	la señorita	
+May I speak with Miss Ortiz?	Puedo hablar con la señorita Ortiz?	
+to separate	separar	
+The Pyrenees separate Spain from France.	Los Pirineos separan España de Francia.	
+to be	ser	
+What's your profession? I am an architect.	Cuál es su profesión? Soy arquitecto.	
+serious	serio	
+It's a very serious problem.	Es un problema muy serio.	
+the service, restroom	el servicio	
+The service is very slow today.	El servicio es muy lento hoy.	
+the napkin	la servilleta	
+I dropped my napkin.	Se me cayó la servilleta.	
+to serve	servir	
+Whom shall I serve first?	A quién sirvo primero?	
+if, whether	si	
+I don't know if they're coming with us.	No sé si vienen con nosotros.	
+yes	si	
+He said yes, but I have my doubts.	El dijo que si, pero yo tengo mis dudas.	
+always	siempre	
+He always arrives at nine sharp.	Siempre llega a las nueve en punto.	
+the century	el siglo	
+He is a specialist in twentieth century literature.	Es especialista en la literatura del siglo XX (viente).	
+to mean	significar	
+What does this word mean?	Qué significa esta palabra?	
+following, next	siguiente	
+First we visited the palace, and the next day we went to the museum.	Primero visitamos el palacio, y el día siguiente fuimos al museo.	
+the chair	la silla	
+This chair isn't very comfortable.	Esta silla no es muy cómoda.	
+nice (person), pleasant, congenial	simpático	
+All of your relatives seem very nice.	Todos sus parientes parecen muy simpáticos.	
+without	sin	
+Don't leave (ustedes) without me.	No se vayan sin mí.	
+the place, spot	el sitio	
+It's an ideal place to spend a vacation.	Es un sitio ideal para pasar las vacaciones.	
+over, about, on	sobre	
+They spoke about a topic that interests me very much.	Hablaron sobre un tema que me interesa mucho.	
+the envelope	el sobre	
+I need an envelope for this letter.	Necesito un sobre para esta carta.	
+the sun	el sol	
+You have to be careful when it's very sunny.	Hay que cuidarse cuando hace mucho sol.	
+only	solamente	
+Only once and no more.	Solamente una vez y nada más.	
+alone	solo / sola	
+They left her alone for two days.	La dejaron sola por dos días.	
+only	sólo	
+Only you can help me.	Sólo usted puede ayudarme.	
+the bachelor, unmarried	el soltero	
+My older brother is unmarried but happy.	Mi hermano mayor es soltero pero contento.	
+the shade, shadow	la sombra	
+Look for a place in the shade.	Busque un lugar a la sombra.	
+the hat	el sombrero	
+Young men almost never wear hats.	Los jóvenes casi nunca llevan sombrero.	
+to smile	sonreír	
+You have to smile when they take a picture.	Hay que sonreír cuando sacan una foto.	
+his, her, your, their	su	
+He introduced me to his brother-in-law.	Me presentó a su cuñado.	
+to go up	subir	
+I have to use the elevator to go up.	Tengo que usar el ascensor para subir.	
+dirty	sucio	
+These dishes are dirty.	Estos platos están sucios.	
+the floor	el suelo	
+Don't throw the papers on the floor.	No tires los papeles al suelo.	
+the sleep, the dream	el sueño	
+I'm sleepy but I can't sleep.	Tengo sueño pero no puedo dormir.	
+the luck	la suerte	
+What luck to find you here!	Qué suerte encontrarte aquí!	
+Of course!	Por supuesto!	
+Of course I’ll go with you.	Por supuesto iré con usted.	
+the south	el sur	
+We intend to spend the winter in the south.	Pensamos pasar el invierno en el sur.	
+the tobacco	el tabaco	
+Generally, one can buy stamps in a tobacco shop.	Generalmente, uno puede comprar sellos en una tienda de tabacos.	
+such	tal	
+We've never seen such a thing.	Nunca hemos visto tal cosa.	
+How are things? / How are you?	Qué tal?	
+the (specific) size	la talla	
+What (specific) size are you looking for?	Qué talla busca usted?	
+the size	el tamaño	
+What size do you wear?	Qué tamaño usa usted?	
+also, too	también	
+He speaks English, Spanish and also a little bit of French.	Habla inglés, español y también un poco de francés.	
+neither	tampoco	
+I didn't understand a thing. Neither did I.	Yo no entendí nada. Ni yo tampoco.	
+the snacks, appetizers (at a bar)	las tapas	
+They're going from bar to bar tasting the appetizers.	Van de cafetería en cafetería probando las tapas.	
+the ticket office, box office	la taquilla	
+It's the line for the box office.	Es la cola para la taquilla.	
+late	tarde	
+Don't arrive late.	No llegue tarde.	
+the afternoon	la tarde	
+We begin at four PM.	Empezamos a las cuatro de la tarde.	
+the card	la tarjeta	
+I'll send a postcard every week.	Mandaré un tarjeta postal cada semana.	
+the cup	la taza	
+A cup of tea with lemon, please.	Una taza de té con limón, por favor.	
+the theater	el teatro	
+In what theater are they performing Buero's latest play?	En qué teatro dan la última comedia de Buero?	
+the ceiling, roof	el techo	
+We have to paint the ceiling every five years.	Tenemos que pintar el techo cada cinco años.	
+the cloth, material	la tela	
+It's a very fine material.	Es una tela muy fina.	
+the telephone	el teléfono	
+I am looking for a telephone booth.	Busco una cabina de teléfonos.	
+early	temprano	
+We get up early in the summer.	Nos levantamos temprano en el verano.	
+the fork	el tenedor	
+Please bring me another fork.	Tráigame otro tenedor, por favor.	
+to have	tener	
+I have a lot to do.	Tengo mucho que hacer.	
+the time, weather	el tiempo	
+I don't have time to see it all.	No tengo tiempo para verlo todo.	
+How is the weather in July?	Qué tiempo hace en julio?	
+the store, shop	la tienda	
+There are many stores on this street.	Hay muchas tiendas en esta calle.	
+the land, earth	la tierra	
+It's difficult to cultivate this land.	Es difícil cultivar esta tierra.	
+the scissors	las tijeras	
+It's useful to bring scissors in case you have to cut something.	Es útil traer tijeras si hay que cortar algo.	
+the ink	la tinta	
+You have to sign in ink.	Hay que firmar con tinta.	
+typical	típico	
+We'd like to try a typical meal of this region.	Quisiéramos probar una comida típica de esta región.	
+to throw, to pull	tirar	
+Don't throw sand, kid.	No tires arena, chico.	
+the towel	la toalla	
+When do they change the towels?	Cuándo cambian las toallas?	
+to touch, to play (an instrument)	tocar	
+Don't touch him when he's playing the piano.	No le toque cuando está tocando el piano.	
+still, yet	todavía	
+They haven't arrived yet.	No han llegado todavía.	
+all, everything	todo	
+He taught us all that he knew.	Nos enseñó todo lo que sabía.	
+all, everybody, everyone	todos	
+We're all here now.	Ya estamos todos.	
+to take, to eat, to drink	tomar	
+What are we going to have (to eat, to drink)?	Qué vamos a tomar?	
+the storm	la tormenta	
+We need a storm to break the heat.	Necesitamos una tormenta para romper el calor.	
+the bull	el toro	
+Bullfighting is popular in some countries.	La corrida de toros es popular en algunos países.	
+the tower	la torre	
+They imprisoned him in the tower.	Lo encarcelaron en la torre.	
+the cough	la tos	
+You must take something for that cough.	Tienes que tomar algo para esa tos.	
+to work	trabajar	
+He works more than forty hours a week.	Trabaja más de cuarenta horas por semana.	
+the work	el trabajo	
+I can't finish all this work in two days.	No puedo terminar todo este trabajo en dos días.	
+to translate	traducir	
+Can you translate what he said?	Puede usted traducir lo que él ha dicho?	
+to bring	traer	
+I think I brought too much clothing.	Creo que he traído demasiada ropa.	
+the suit, the outfit	el traje	
+One suit is sufficient for this trip.	Un traje basta para este viaje.	
+tranquil, calm, quiet	tranquilo	
+Everything is very tranquil now.	Todo está muy tranquilo ahora.	
+to try	tratar de	
+Try to write clearly.	Traten de escribir claramente.	
+the train	el tren	
+The trains generally arrive on time.	Los trenes generalmente llegan a tiempo.	
+sad	triste	
+He became sad when he heard the news.	Se puso triste cuando oyó la noticia.	
+Do you have your passport?	Tienes tu pasaporte?	
+You're always the last to arrive.	El último en llegar eres siempre tú.	
+last	último	
+It's the last time I'm coming here.	Es la última vez que vengo aquí.	
+I have a pencil and a pen.	Tengo un lápiz y una pluma.	
+some	unos unas	
+I'm looking for some leather gloves.	Busco unos guantes de cuero.	
+to use	usar	
+I've been using this product for years.	Hace años que uso este producto.	
+How are you today?	Cómo está usted hoy?	
+useful	útil	
+It's useful to know several languages.	Es útil saber varios idiomas.	
+the vacation	las vacaciones	
+We're going to take our vacation in August.	Vamos a tomar nuestras vacaciones en agosto.	
+empty	vacío	
+The restaurant is half empty today.	El restaurante está medio vacío hoy.	
+ok (Hispanic), goodbye	vale	
+"He said ""OK"" and left."	"Dijo ""vale” y se fue."	
+to be worth, to cost	valer	
+How much does this shirt cost?	Cuánto vale esta camisa?	
+the valley	el valle	
+The Valley of the Fallen is a monument to the Soldiers of the Civil War.	El Valle de los Caídos es un monumento a los soldados de la Guerra Civil.	
+several	varios	
+Several friends of ours have recommended this hotel.	Varios amigos nuestros han recomendado este hotel.	
+the glass (tumbler)	el vaso	
+A glass of mineral water, please.	Un vaso de agua mineral, por favor.	
+the neighbor	el vecino	
+We have very good neighbors.	Tenemos muy buenos vecinos.	
+the speed	la velocidad	
+What's the speed limit?	Cuál es la velocidad máxima?	
+to sell	vender	
+The material that they sell here is of good quality.	La tela que venden aquí es de buena calidad.	
+to come	venir	
+Why don't you come with us?	Por qué no vienen ustedes con nosotros?	
+the advantage	la ventaja	
+She has an advantage because she speaks Spanish.	Tiene una ventaja porque habla español.	
+the window	la ventana	
+Our living-room windows face the park.	Las ventanas de nuestra sala dan al parque.	
+to see	ver	
+Did you see what happened?	Vieron ustedes lo que pasó?	
+really	de veras	
+Really, I don't know anything.	De veras, yo no sé nada.	
+the truth	la verdad	
+We don't know if he told us the truth or not.	No sabemos si nos dijo la verdad o no.	
+true, real	verdadero	
+It's a real pleasure to be here with you.	Es un verdadero placer estar aquí con ustedes.	
+the shame, the embarrassment	la vergüenza	
+I'm ashamed to say that I haven't finished it.	Tengo vergüenza de decir que no lo he terminado.	
+the dress	el vestido	
+What an elegant dress she's wearing!	Qué vestido elegante lleva!	
+to get dressed	vestirse	
+I got dressed quickly because it was late.	Me vestí rápidamente porque era tarde.	
+the time (occasion)	la vez	
+Once isn't enough.	Una vez no basta.	
+to travel	viajar	
+You learn a lot by travelling.	Se aprende mucho viajando.	
+the trip	el viaje	
+It was a trip full of adventures.	Fue un viaje lleno de aventuras.	
+the traveler, the passenger	el viajero	
+The passengers have to hold onto their tickets.	Los viajeros tienen que conservar sus billetes.	
+the life	la vida	
+What is life? Life is a dream.	Qué es la vida? La vida es sueño.	
+old	viejo	
+It's an old custom of this region.	Es una vieja costumbre de esta región.	
+the wind	el viento	
+It's very windy in the month of March.	Hay mucho viento en el mes de marzo.	
+the sight, the view	la vista	
+We have a magnificent view of the mountains.	Tenemos una vista magnífica de las montañas.	
+to live	vivir	
+We live here all year long.	Vivimos aquí todo el año.	
+to fly	volar	
+If we fly, we'll be there in three hours.	Si volamos, estaremos allí en tres horas.	
+to come back, to return	volver	
+Come back tomorrow.	Vuelva usted mañana.	
+to vote	votar	
+All citizens have the obligation to vote.	Todos los ciudadanos tienen la obligación de votar.	
+the voice	la voz	
+Speak louder, please.	Hable en voz más alta, por favor.	
+the flight	el vuelo	
+I hope he arrives on the next flight.	Espero que llegue en el próximo vuelo.	
+the change, the turn, the stroll	la vuelta	
+Keep the change.	Quédese con la vuelta.	
+back (home)	de vuelta	
+I'll be back at five.	Estaré de vuelta a las cinco.	
+It's for you and your family.	Es para usted y su familia.	
+already	ya	
+We already knew it before reading the item in the newspaper.	Ya lo sabíamos antes de leer la noticia en el periódico.	
+I don't know what to do.	Yo no sé qué hacer.	
+the shoe	el zapato	
+Take off your shoes because they're dirty.	Quítese los zapatos porque están sucios.	
