@@ -27,6 +27,7 @@ rl.on("line", (line) => {
     //   process.exit();
     // Do whatever you need with each object
     // Example:
+    console.log(obj); process.exit();
     let en = [];
     if (obj.translations && Array.isArray(obj.translations)) {
       en = obj.translations.filter(val => (val.lang_code === "en"))
@@ -90,7 +91,23 @@ const combine = () => {
   console.log("all parts count: ", cards.length);
   console.log("all parts format", cards[0]);
   const uniqueWords = eachOfSecondLang(cards, processCard);
-  console.log("collected", uniqueWords.size);
+  console.log("collected size", uniqueWords.size);
+  const dict = new Set<DictEntry>;
+  const notInDict = new Set<string>;
+  uniqueWords.forEach((value: string ) => {
+    const res = dictionary.find((dictEntry) => {
+      return (dictEntry.word === value);
+    });
+    if(res){
+      dict.add(res);
+    } else {
+      notInDict.add(value);
+    }
+    // console.log(value);
+  });
+  console.log(notInDict);
+  console.log("dict size", dict.size);
+  console.log("not in dict size", notInDict.size);
 }
 
 const eachOfSecondLang = (cards: cards, cb: Callback<card>) => {
