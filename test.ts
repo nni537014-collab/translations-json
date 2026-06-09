@@ -17,6 +17,8 @@ type DictEntry = {
   "translation": Translation[];
 }
 let dictionary: DictEntry[] = [];
+const categories = new Set<string>;
+const nouns = new Set<string>;
 
 rl.on("line", (line) => {
   if (!line.trim()) return;
@@ -24,10 +26,18 @@ rl.on("line", (line) => {
   try {
     const obj = JSON.parse(line);
     // if (words.length > 100)
-    //   process.exit();
+ 
     // Do whatever you need with each object
     // Example:
-    console.log(obj); process.exit();
+      // process.exit();
+   
+  if(obj.pos === "noun") nouns.add(obj.word);
+
+   if (obj.categories && Array.isArray(obj.categories)) {
+      for (let category of obj.categories) {
+        categories.add(category);
+      }
+    }
     let en = [];
     if (obj.translations && Array.isArray(obj.translations)) {
       en = obj.translations.filter(val => (val.lang_code === "en"))
@@ -55,6 +65,19 @@ rl.on("close", () => {
   const stats = fs.statSync("es-en.json");
   console.log("Size:", stats.size, "bytes");
   combine();
+  console.log("categories string set :", categories.size);
+
+  // ... your loop populated the categories set ...
+
+  const esCategories = new Set<string>();
+
+  categories.forEach((category) => {
+    if (category.startsWith("ES:")) {
+      esCategories.add(category);
+    }
+  });
+  console.log(esCategories.size);
+  console.log(nouns.size);
 });
 type card = {
   origin: string;
@@ -94,11 +117,11 @@ const combine = () => {
   console.log("collected size", uniqueWords.size);
   const dict = new Set<DictEntry>;
   const notInDict = new Set<string>;
-  uniqueWords.forEach((value: string ) => {
+  uniqueWords.forEach((value: string) => {
     const res = dictionary.find((dictEntry) => {
       return (dictEntry.word === value);
     });
-    if(res){
+    if (res) {
       dict.add(res);
     } else {
       notInDict.add(value);
@@ -112,16 +135,16 @@ const combine = () => {
 
 const eachOfSecondLang = (cards: cards, cb: Callback<card>) => {
   const uniqueWords = new Set<string>();
-  for(let i=0; i < cards.length; i++){
-    const card = cards[i]; 
-    if(card) cb(card, uniqueWords);
+  for (let i = 0; i < cards.length; i++) {
+    const card = cards[i];
+    if (card) cb(card, uniqueWords);
   }
   return uniqueWords;
 }
 
 const processCard = (card: card, words: Set<string>) => {
-    addWordsToSet(card.translation, words)
-    console.log(stringToWords(card.translation));
+  addWordsToSet(card.translation, words)
+  console.log(stringToWords(card.translation));
 };
 
 const addWordsToSet = (phrase: string, set: Set<string>) => {
