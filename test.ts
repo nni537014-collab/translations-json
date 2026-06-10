@@ -1,12 +1,19 @@
 import fs from "fs";
 import readline from "readline";
 
+const uniqueWordsInJSONL = new Set<string>;
+const jsonlWordsInCards: any[] = []
+type Card = {
+  origin: string;
+  translation: string;
+}
+type Cards = Card[]
 
-const rl = readline.createInterface({
-  input: fs.createReadStream("es-extract.jsonl"),
-  crlfDelay: Infinity
-});
-let count = 0;
+
+type WordPosCount = {
+  wordType: string;
+  count: number;
+};
 type Translation = {
   "word": string;
   "lang_code": string,
@@ -16,115 +23,26 @@ type DictEntry = {
   "word": string;
   "translation": Translation[];
 }
-let dictionary: DictEntry[] = [];
-const categories = new Set<string>;
-const nouns = new Set<string>;
-const words = new Set<string>;
-type wordPosCount = {
-  wordType:  string;
-  count: number;
-};
-const counts: wordPosCount[] = [];
-let entries = 0;
-let duplicates = 0;
-let japsCounts = 0;
-let japs: any[] = [];
-rl.on("line", (line) => {
-  if (!line.trim()) return;
-
-  try {
-    const obj = JSON.parse(line);
-    if(words.has(obj.word)) ++duplicates;
-    words.add(obj.word);
-    ++entries;
-    counts.forEach(value => {
-      if(value.wordType === obj.pos) value.count++;
-
-    })
-    // if (words.length > 100)
- 
-    // Do whatever you need with each object
-    // Example:
-      // console.log(obj); process.exit();
-  if(obj.word === "japonés"){
-    ++japsCounts;
-    japs.push(obj);
-  }
-  if(obj.pos === "noun") nouns.add(obj.word);
-
-   if (obj.categories && Array.isArray(obj.categories)) {
-      for (let category of obj.categories) {
-        categories.add(category);
-      }
-    }
-    let en = [];
-    if (obj.translations && Array.isArray(obj.translations)) {
-      en = obj.translations.filter(val => (val.lang_code === "en"))
-    }
-    if (en.length === 0) return;
-    if (dictionary.includes(obj.word)) return;
+let dictionaryEsEn: DictEntry[] = [];
 
 
-    dictionary.push({
-      word: obj.word,
-      translation: en,
-    });
+
+const getCards = (): Cards => {
 
 
-  } catch (err) {
-    console.error("Bad JSON:", err);
-  }
-});
-
-rl.on("close", () => {
-  console.log("Finished processing file");
-  console.log(dictionary.length);
-  fs.writeFileSync("es-en.json", JSON.stringify(dictionary), "utf8");
-  // console.log(words[words.length - 1]);
-  const stats = fs.statSync("es-en.json");
-  console.log("Size:", stats.size, "bytes");
-  combine();
-  console.log("categories string set :", categories.size);
-
-  // ... your loop populated the categories set ...
-
-  const esCategories = new Set<string>();
-
-  categories.forEach((category) => {
-    if (category.startsWith("ES:")) {
-      esCategories.add(category);
-    }
-  });
-  console.log(esCategories.size);
-  console.log(nouns.size);
-  console.log(japs);
-  console.log(`count japonés: ${japsCounts}`);
-  console.log("words size", words.size);
-  console.log("total entries", entries);
-  console.log("duplicates", duplicates);
-  console.log((words.size + duplicates === entries))
-});
-type card = {
-  origin: string;
-  translation: string;
-}
-type cards = card[]
-const getCards = (): cards => {
-
-
-  const raw = fs.readFileSync("cards.txt", "utf8");
+  const raw = fs.readFileSync("in/cards.txt", "utf8");
 
   // split into lines
   const lines = raw.split(/\r?\n/);
 
   // skip first two lines
   const dataLines = lines.slice(2);
-  const cards: cards = [];
+  const cards: Cards = [];
   for (const line of dataLines) {
     if (!line.trim()) continue; // skip empty lines
 
     const parts = line.split("\t");
-    const card: card = {
+    const card: Card = {
       origin: parts[0] || "",
       translation: parts[1] || ""
     }
@@ -132,57 +50,156 @@ const getCards = (): cards => {
   }
   return cards;
 }
-type Callback<T> = (card: T, words: Set<string>) => void;
-
-const combine = () => {
-  const cards = getCards();
-  console.log("all parts count: ", cards.length);
-  console.log("all parts format", cards[0]);
-  const uniqueWords = eachOfSecondLang(cards, processCard);
-  console.log("collected size", uniqueWords.size);
-  const dict = new Set<DictEntry>;
-  const notInDict = new Set<string>;
-  uniqueWords.forEach((value: string) => {
-    const res = dictionary.find((dictEntry) => {
-      return (dictEntry.word === value);
-    });
-    if (res) {
-      dict.add(res);
-    } else {
-      notInDict.add(value);
-    }
-    // console.log(value);
-  });
-  console.log(notInDict);
-  console.log("dict size", dict.size);
-  console.log("not in dict size", notInDict.size);
-}
-
-const eachOfSecondLang = (cards: cards, cb: Callback<card>) => {
+const eachOfSecondLang = (cards: Cards) => {
+  const stringToWords = (phrase: string): string[] => {
+    return phrase
+      .toLowerCase()
+      .replace(/[.,!?;:()"']/g, "")   // remove punctuation
+      .split(/\s+/)                   // split on any whitespace
+      .filter(Boolean);               // remove empty entries
+  };
   const uniqueWords = new Set<string>();
   for (let i = 0; i < cards.length; i++) {
     const card = cards[i];
-    if (card) cb(card, uniqueWords);
+    if (card) {
+      const words = stringToWords(card.translation);
+      for (const word of words) {
+        uniqueWords.add(word);
+      }
+    }
   }
   return uniqueWords;
 }
 
-const processCard = (card: card, words: Set<string>) => {
-  addWordsToSet(card.translation, words)
-  console.log(stringToWords(card.translation));
-};
+const Cards = getCards();
+console.log("all parts count: ", Cards.length);
+// console.log("all parts format", cards[0]);
+const uniqueWordsInCards = eachOfSecondLang(Cards);
+const rl = readline.createInterface({
+  input: fs.createReadStream("in/es-extract.jsonl"),
+  crlfDelay: Infinity
+});
 
-const addWordsToSet = (phrase: string, set: Set<string>) => {
-  const words = stringToWords(phrase);
-  for (const word of words) {
-    set.add(word);
+const wordTypeCounts: WordPosCount[] = [];
+let entriesInJsonl = 0;
+let duplicatedWordsInJSONL = 0;
+
+const processLine = (line: string) => {
+  //remove empty lines
+  if (!line.trim()) return;
+
+  try {
+    const obj = JSON.parse(line);
+
+    if (uniqueWordsInCards.has(obj.word)) {
+      //adding all jsonl info of words that 
+      // intersect sets to array
+      jsonlWordsInCards.push(obj);
+    }
+    
+    // duplicates + uniqueWordsInJSONL should equal entriesInJsonl
+    if (uniqueWordsInJSONL.has(obj.word)) ++duplicatedWordsInJSONL;
+    uniqueWordsInJSONL.add(obj.word);
+    ++entriesInJsonl;
+
+    let matched = false;
+    wordTypeCounts.forEach(wordPosCount => {
+      if (wordPosCount.wordType === obj.pos) {
+        wordPosCount.count++;
+        matched = true;
+      }
+    })
+    if (!matched && obj.pos) {
+      wordTypeCounts.push({
+        wordType: obj.pos,
+        count: 1
+      })
+    }
+      let en = [];
+      if (obj.translations && Array.isArray(obj.translations)) {
+        en = obj.translations.filter((val: any) => (val.lang_code === "en"))
+      }
+      if (en.length === 0) return;
+      
+      // if (dictionaryEsEn.includes(obj.word)) return;
+      dictionaryEsEn.push({
+        word: obj.word,
+        translation: en,
+      });
+
+
+    } catch (err) {
+      console.error("Bad JSON:", err);
+    }
   }
-};
 
-const stringToWords = (phrase: string): string[] => {
-  return phrase
-    .toLowerCase()
-    .replace(/[.,!?;:()"']/g, "")   // remove punctuation
-    .split(/\s+/)                   // split on any whitespace
-    .filter(Boolean);               // remove empty entries
-};
+const processClose = () => {
+    console.log("Finished processing file");
+    console.log(dictionaryEsEn.length);
+    fs.writeFileSync("out/es-en.json", JSON.stringify(dictionaryEsEn, null, 2), "utf8");
+    // console.log(words[words.length - 1]);
+    const statsEsEn = fs.statSync("out/es-en.json");
+    wordTypeCounts.forEach(value => {
+      console.log(`counted ${value.count} of ${value.wordType}`)
+    })
+
+    fs.writeFileSync("out/es.json", JSON.stringify(jsonlWordsInCards, null, 2), "utf8");
+    // console.log(words[words.length - 1]);
+    fs.writeFileSync("out/wordsInCards.json", JSON.stringify(Array.from(uniqueWordsInCards), null, 2), "utf8");
+
+        console.log("Size:", statsEsEn.size, "bytes");
+    // combine();
+
+    // console.log(nouns.size);
+    // console.log(japs);
+    console.log("wordsInJSONL.size", uniqueWordsInJSONL.size);
+    console.log("entries in jsonl", entriesInJsonl);
+    console.log("duplicates", duplicatedWordsInJSONL);
+    console.log("numbers add up", (uniqueWordsInJSONL.size + duplicatedWordsInJSONL === entriesInJsonl));
+    console.log("dictionaryEsEn size", dictionaryEsEn.length)
+    console.log("jsonlWordsInCards", jsonlWordsInCards.length);
+
+  }
+  rl.on("line", processLine);
+
+  rl.on("close", processClose);
+
+
+  const combine = () => {
+    const cards = getCards();
+    console.log("all parts count: ", cards.length);
+    // console.log("all parts format", cards[0]);
+    const uniqueWords = eachOfSecondLang(cards, processCard);
+    console.log("unique words from cards size", uniqueWords.size);
+    const combinedDict = new Set<DictEntry>;
+    const notInCombinedDict = new Set<string>;
+    let cardWordsInJsonL = 0;
+
+    uniqueWords.forEach((word: string) => {
+      const res = dictionaryEsEn.find((dictEntry) => {
+        return (dictEntry.word === word);
+      });
+      if (res) {
+        combinedDict.add(res);
+      } else {
+        notInCombinedDict.add(word);
+      }
+      if (uniqueWordsInJSONL.has(word)) {
+        if (!res) {
+
+        }
+        cardWordsInJsonL++
+      }
+      // console.log(value);
+    });
+    console.log("card words in jsonl", cardWordsInJsonL);
+    // console.log(notInDict);
+    console.log("combined dict size", combinedDict.size);
+    console.log("not in combined dict size", notInCombinedDict.size);
+  }
+
+
+
+
+
+
