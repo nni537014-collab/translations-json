@@ -19,18 +19,37 @@ type DictEntry = {
 let dictionary: DictEntry[] = [];
 const categories = new Set<string>;
 const nouns = new Set<string>;
-
+const words = new Set<string>;
+type wordPosCount = {
+  wordType:  string;
+  count: number;
+};
+const counts: wordPosCount[] = [];
+let entries = 0;
+let duplicates = 0;
+let japsCounts = 0;
+let japs: any[] = [];
 rl.on("line", (line) => {
   if (!line.trim()) return;
 
   try {
     const obj = JSON.parse(line);
+    if(words.has(obj.word)) ++duplicates;
+    words.add(obj.word);
+    ++entries;
+    counts.forEach(value => {
+      if(value.wordType === obj.pos) value.count++;
+
+    })
     // if (words.length > 100)
  
     // Do whatever you need with each object
     // Example:
-      // process.exit();
-   
+      // console.log(obj); process.exit();
+  if(obj.word === "japonés"){
+    ++japsCounts;
+    japs.push(obj);
+  }
   if(obj.pos === "noun") nouns.add(obj.word);
 
    if (obj.categories && Array.isArray(obj.categories)) {
@@ -78,6 +97,12 @@ rl.on("close", () => {
   });
   console.log(esCategories.size);
   console.log(nouns.size);
+  console.log(japs);
+  console.log(`count japonés: ${japsCounts}`);
+  console.log("words size", words.size);
+  console.log("total entries", entries);
+  console.log("duplicates", duplicates);
+  console.log((words.size + duplicates === entries))
 });
 type card = {
   origin: string;
