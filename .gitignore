@@ -27,7 +27,7 @@ dist/
 build/
 .cache/
 .next/
-out/
+
 
 # OS junk
 .DS_Store
